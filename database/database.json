@@ -1,0 +1,3508 @@
+{
+    "chapter 1": {
+        "audioFiles": [
+            {
+                "audioFilename": "amabo.mp3",
+                "latin": "amābō tē",
+                "english": "*please*",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "amo.mp3",
+                "latin": "amō, amāre, amāvī, amātum",
+                "english": "*to love, like*",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "cogito.mp3",
+                "latin": "cōgitō, cōgitāre, cōgitāvī, cōgitātum",
+                "english": "*to think, ponder, consider, plan*",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "conservo.mp3",
+                "latin": "cōnservō, cōnservāre, cōnservāvī, cōnservātum",
+                "english": "*to preserve, conserve, maintain*",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "debeo.mp3",
+                "latin": "dḗbeō, dēbḗre, dḗbuī, dḗbitum",
+                "english": "*to owe; ought, must, should*",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "do.mp3",
+                "latin": "dō, dare, dedī, datum",
+                "english": "*to give, offer*",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "erro.mp3",
+                "latin": "errō, errāre, errāvī, errātum",
+                "english": "*to wander; err, go astray; make a mistake, be mistaken*",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "laudo.mp3",
+                "latin": "laudō, laudāre, laudāvī, laudātum",
+                "english": "*to praise*",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "me.mp3",
+                "latin": "mē",
+                "english": "*me, myself*",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "moneo.mp3",
+                "latin": "moneō, monēre, monuī, monitum",
+                "english": "*to remind, advise, warn*",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "nihil.mp3",
+                "latin": "nihil",
+                "english": "*nothing*",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "non.mp3",
+                "latin": "nōn",
+                "english": "*not*",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "quid.mp3",
+                "latin": "quid",
+                "english": "*what*",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "saepe.mp3",
+                "latin": "saepe",
+                "english": "*often*",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "salve.mp3",
+                "latin": "salvē, salvēte",
+                "english": "*hello, greetings*",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "salveo.mp3",
+                "latin": "salveō, salvēre",
+                "english": "*to be well, be in good health*",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "servo.mp3",
+                "latin": "servō, servāre, servāvī, servātum",
+                "english": "*to preserve, save, keep, guard*",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "si.mp3",
+                "latin": "sī",
+                "english": "*if*",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "terreo.mp3",
+                "latin": "terreō, terrēre, terruī, territum",
+                "english": "*to frighten, terrify*",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "vale.mp3",
+                "latin": "valē, valēte",
+                "english": "*good-bye, farewell*",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "valeo.mp3",
+                "latin": "valeō, valēre, valuī, valitūrum",
+                "english": "*to be strong, have power; be well*",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "video.mp3",
+                "latin": "videō, vidēre, vīdī, vīsum",
+                "english": "*to see; observe, understand*",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "voco.mp3",
+                "latin": "vocō, vocāre, vocāvī, vocātum",
+                "english": "*to call, summon*",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 2": {
+        "audioFiles": [
+            {
+                "audioFilename": "antiqua.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "est.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "et et.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "et.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "fama.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "forma.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "fortuna.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "ira.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "magna.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "mea.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "multa.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "nauta.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "o.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "patria.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "pecunia.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "philosophia.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "poena.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "poenas dare.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "poeta.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "porta.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "puella.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "rosa.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "sed.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "sententia.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "sine.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "tua.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "vita.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 3": {
+        "audioFiles": [
+            {
+                "audioFilename": "ager.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "agricola.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "amica.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "amicus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "avarus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "de.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "femina.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "filia.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "filius.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "habeo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "hodie.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "in.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "numerus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "pauci.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "populus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "puer.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "romanus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "sapientia.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "satio.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "semper.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "vir.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 4": {
+        "audioFiles": [
+            {
+                "audioFilename": "adiuvo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "basium.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "bellum.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "bellus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "bonus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "consilium.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "cura.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "donum.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "exitium.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "humanus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "iuvo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "magister.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "magistra.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "malus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "mora.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "nihil.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "oculus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "officium.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "otium.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "parvus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "periculum.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "remedium.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "stultus stulti.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "stultus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "sum.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "verus.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 5": {
+        "audioFiles": [
+            {
+                "audioFilename": "adulescentia.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "animi.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "animus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "caelum.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "ceno.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "cras.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "culpa.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "culpo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "gloria.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "heri.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "igitur.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "liber.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "maneo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "ne.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "noster.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "propter.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "pulcher.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "quando.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "remaneo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "sanus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "satis.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "si quando.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "supero.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "te.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "tum.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "verbum.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 6": {
+        "audioFiles": [
+            {
+                "audioFilename": "dea.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "deus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "discipula.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "discipulus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "graecus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "graecus2.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "ibi.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "insidiae.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "liber.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "nunc.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "perpetuus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "plenus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "possum.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "quare.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "que.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "salvus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "secundus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "sed.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "tolero.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "tyrannus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "ubi.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "vester.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "vitium.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 7": {
+        "audioFiles": [
+            {
+                "audioFilename": "amor.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "audeo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "carmen.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "civitas.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "corpus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "homo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "labor.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "littera.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "litterae.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "mores.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "mos.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "neco.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "nomen.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "novus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "pax.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "post.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "regina.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "rex.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "sub.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "tempus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "terra.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "uxor.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "virgo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "virtus.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 8": {
+        "audioFiles": [
+            {
+                "audioFilename": "ad.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "ago.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "cicero.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "copia.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "copiae.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "demonstro.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "disco.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "doceo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "duco.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "dum.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "ex.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "frater.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "gero.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "gratiasagere.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "laus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "libertas.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "numquam.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "ratio.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "scribo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "scriptor.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "soror.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "tamen.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "traho.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "victoria.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "vinco.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 9": {
+        "audioFiles": [
+            {
+                "audioFilename": "alii.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "alius.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "alter.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "enim.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "hic.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "ille.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "in.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "iste.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "loca.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "loci.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "locus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "morbus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "neuter.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "nimis.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "nonsolum.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "nullus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "solus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "studium.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "totus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "ullus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "unus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "uter.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 10": {
+        "audioFiles": [
+            {
+                "audioFilename": "amicitia.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "audio.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "beatus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "capio.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "cum.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "cupiditas.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "dico.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "facio.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "fugio.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "hora.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "invenio.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "natura.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "quoniam.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "senectus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "timor.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "venio.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "veritas.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "via.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "vivo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "voluptas.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 11": {
+        "audioFiles": [
+            {
+                "audioFilename": "amicus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "autem.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "bene.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "caput.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "carus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "consul.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "ego.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "etiam.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "idem.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "intellego.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "is.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "mitto.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "nemo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "neque.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "neque_neque.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "quod.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "sentio.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "tu.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 12": {
+        "audioFiles": [
+            {
+                "audioFilename": "acerbus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "adulescens.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "amitto.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "annus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "asia.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "cado.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "caesar.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "creo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "diu.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "mater.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "medica.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "medicus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "nuper.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "pater.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "patientia.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "principium.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "pro.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 13": {
+        "audioFiles": [
+            {
+                "audioFilename": "alo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "ante.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "diligo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "divitiae.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "doctus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "factum.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "fortunatus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "ipse.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "iungo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "nam.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "olim.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "per.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "quisque.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "signum.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "sto.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "sui.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "suus.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 14": {
+        "audioFiles": [
+            {
+                "audioFilename": "ab.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "animal.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "appello.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "aqua.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "ars.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "auris.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "civis.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "curro.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "ius.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "mare.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "mors.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "muto.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "nubes.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "os.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "pars.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "roma.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "teneo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "trans.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "turba.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "urbs.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "vires.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "vis.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "vito.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 15": {
+        "audioFiles": [
+            {
+                "audioFilename": "centum.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "committo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "exspecto.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "iacio.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "inter.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "italia.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "itaque.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "memoria.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "milia.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "mille.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "miser.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "tempestas.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "timeo.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 16": {
+        "audioFiles": [
+            {
+                "audioFilename": "acer.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "aetas.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "auditor.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "brevis.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "celer.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "clementia.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "difficilis.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "dulcis.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "facilis.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "fortis.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "ingens.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "iucundus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "longus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "mens.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "omnis.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "potens.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "quam.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "rego.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "satura.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "senex.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 17": {
+        "audioFiles": [
+            {
+                "audioFilename": "admitto.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "aut.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "aut_aut.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "caecus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "cito.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "coepi.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "cupio.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "deleo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "desidero.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "incipio.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "levis.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "libellus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "navigo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "neglego.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "qui.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "quoque.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "recito.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 18": {
+        "audioFiles": [
+            {
+                "audioFilename": "clarus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "cur.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "deinde.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "flumen.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "fluo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "genus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "hostes.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "hostis.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "lego.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "ludus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "misceo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "mortalis.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "moveo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "probitas.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "scientia.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "videor.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 19": {
+        "audioFiles": [
+            {
+                "audioFilename": "argumentum.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "at.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "auctor.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "beneficium.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "certus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "contra.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "delecto.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "familia.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "graecia.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "gravis.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "iam.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "immortalis.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "iudex.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "iudicium.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "libero.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "nisi.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "paro.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "qui.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "quis.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "scelus.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 20": {
+        "audioFiles": [
+            {
+                "audioFilename": "careo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "communis.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "coniurati.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "cornu.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "defendo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "dexter.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "discedo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "fructus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "genu.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "manus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "metus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "mons.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "odi.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "prohibeo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "pronuntio.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "senatus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "sensus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "servitus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "sinister.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "spiritus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "versus.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 21": {
+        "audioFiles": [
+            {
+                "audioFilename": "asper.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "atque.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "casa.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "causa.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "causa2.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "contineo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "fenestra.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "fines.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "finis.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "gens.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "iterum.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "iubeo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "laboro.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "mundus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "navis.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "rapio.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "relinquo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "salus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "scio.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "tango.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "troia.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "vicina.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "vicinus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "vulgus.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 22": {
+        "audioFiles": [
+            {
+                "audioFilename": "aequus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "cerno.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "dies.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "eripio.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "felix.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "ferrum.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "fides.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "ignis.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "incertus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "inquit.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "latinus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "medius.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "modus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "protinus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "quondam.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "res.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "respublica.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "spes.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "tollo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "ultra.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 23": {
+        "audioFiles": [
+            {
+                "audioFilename": "aliquis.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "arx.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "averto.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "dux.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "educo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "equus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "gaudeo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "hasta.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "insula.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "litus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "magnanimus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "miles.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "opprimo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "orator.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "ostendo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "peto.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "premo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "quisquis.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "reverto.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "sacerdos.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "umquam.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "verto.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 24": {
+        "audioFiles": [
+            {
+                "audioFilename": "accipio.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "carthago.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "excipio.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "expello.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "fabula.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "imperator.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "imperium.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "narro.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "pello.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "perfugium.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "postea.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "quaero.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "re.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "recipio.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "rideo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "serva.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "servus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "solacium.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "ut.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "vulnus.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 25": {
+        "audioFiles": [
+            {
+                "audioFilename": "ait.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "credo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "dehinc.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "ferox.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "fidelis.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "geminus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "hic.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "iaceo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "lingua.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "nego.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "nescio.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "nuntio.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "patefacio.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "puto.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "sapiens.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "spero.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "suscipio.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "ultimus.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 26": {
+        "audioFiles": [
+            {
+                "audioFilename": "cena.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "forum.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "invito.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "lex.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "limen.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "lux.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "mensa.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "mensasecunda.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "nox.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "prae.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "pudicus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "quam.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "quidam.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "somnus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "superbus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "tantum.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "tristis.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "turpis.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "urbanus.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 27": {
+        "audioFiles": [
+            {
+                "audioFilename": "delectatio.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "diligens.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "dissimilis.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "gracilis.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "humilis.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "maior.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "maiores.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "nepos.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "pono.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "primus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "probo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "quot.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "similis.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "sol.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "superi.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "superus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "utilis.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 28": {
+        "audioFiles": [
+            {
+                "audioFilename": "arma.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "cedo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "cursus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "dedico.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "egeo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "expleo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "luna.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "mortuus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "ne.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "occasio.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "parens.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "praesto.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "princeps.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "stella.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "taceo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "ut.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "vesper.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 29": {
+        "audioFiles": [
+            {
+                "audioFilename": "condo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "contendo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "denique.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "dignus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "durus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "fatum.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "ingenium.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "ita.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "moenia.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "mollio.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "nata.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "nequidem.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "osculum.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "pugno.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "quidem.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "respondeo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "sic.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "sidus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "surgo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "tam.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "tamquam.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "tantus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "vero.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 30": {
+        "audioFiles": [
+            {
+                "audioFilename": "bibo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "ceteri.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "cognosco.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "comprehendo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "consumo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "dubito.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "expono.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "furtim.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "honor.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "minuo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "mox.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "primo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "quantus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "repente.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "ridiculus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "rogo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "tantus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "unde.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "utrum.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "vivus.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 31": {
+        "audioFiles": [
+            {
+                "audioFilename": "adfero.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "apud.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "as.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "auxilium.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "confero.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "cum.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "digitus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "doleo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "dormio.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "elephantus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "exsilium.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "fero.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "invideo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "invidia.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "mediocris.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "occido.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "offero.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "refero.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "rumor.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "semel.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "se_conferre.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "usque.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "vinum.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 32": {
+        "audioFiles": [
+            {
+                "audioFilename": "custodia.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "dives.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "dummodo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "exercitus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "malo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "nolo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "par.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "pateo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "pauper.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "paupertas.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "praebeo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "promitto.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "volo.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 33": {
+        "audioFiles": [
+            {
+                "audioFilename": "candidus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "heu.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "initium.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "merus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "opes.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "ops.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "philosopha.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "philosophus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "plebs.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "quis.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "recuso.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "sal.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "speculum.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "suavis.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "subito.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "trado.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "ve.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 34": {
+        "audioFiles": [
+            {
+                "audioFilename": "adversus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "anima.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "arbitror.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "conor.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "cresco.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "egredior.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "fateor.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "hortor.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "loquor.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "molior.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "morior.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "nascor.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "patior.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "proficiscor.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "remissio.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "rusticor.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "sedeo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "sequor.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "specto.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "talis.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "utor.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "vae.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "vox.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 35": {
+        "audioFiles": [
+            {
+                "audioFilename": "aestas.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "antepono.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "foveo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "ianua.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "ignosco.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "impero.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "iratus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "miror.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "noceo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "nubo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "parco.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "pareo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "pectus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "persuadeo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "placeo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "praemium.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "sapio.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "servio.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "studeo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "subrideo.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 36": {
+        "audioFiles": [
+            {
+                "audioFilename": "accedo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "carpo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "cogo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "contemno.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "contundo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "cotidie.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "cupido.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "curo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "decerno.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "exigo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "fio.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "fortasse.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "lector.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "lectrix.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "oblecto.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "oro.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "recreo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "requiro.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "sereno.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "vinculum.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 37": {
+        "audioFiles": [
+            {
+                "audioFilename": "abeo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "absens.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "adeo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "athenae.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "domi.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "domo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "domum.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "domus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "eo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "exeo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "foris.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "gratus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "humus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "idoneus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "immotus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "ineo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "interficio.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "iter.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "licet.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "obeo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "peregrinor.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "pereo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "redeo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "requiesco.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "rus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "soleo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "syracusae.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 38": {
+        "audioFiles": [
+            {
+                "audioFilename": "arbor.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "dignitas.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "dolor.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "erga.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "etsi.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "firmus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "impedio.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "infirmus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "libenter.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "metuo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "mirabilis.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "odium.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "opus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "oratio.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "pes.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "pristinus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "queror.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "recognosco.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "sator.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "sublimis.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "suspendo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "vendo.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 39": {
+        "audioFiles": [
+            {
+                "audioFilename": "aedificium.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "ambulo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "cupidus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "experior.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "iniuria.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "liberalis.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "libo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "mulier.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "necesse.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "oportet.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "oppugno.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "orno.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "pernocto.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "quasi.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "transeo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "transitus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "ventus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "vetus.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    },
+    "chapter 40": {
+        "audioFiles": [
+            {
+                "audioFilename": "aes.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "domina.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "dominus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "explico.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "fatigo.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "for.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "iustus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "lacrima.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "meta.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "monumentum.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "nasus.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "nonne.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "num.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "omnino.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "opinor.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "postremum.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "praeter.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "quin.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "reperio.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "saxum.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "tot.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "vereor.mp3",
+                "source": "http://wheelockslatin.com/"
+            },
+            {
+                "audioFilename": "vultus.mp3",
+                "source": "http://wheelockslatin.com/"
+            }
+        ]
+    }
+}

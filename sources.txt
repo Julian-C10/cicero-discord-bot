@@ -1,0 +1,9 @@
+http://wheelockslatin.com/
+https://en.wikipedia.org/wiki/History_of_Latin
+
+
+{
+    "audioFiles": {
+        "shortA": ["shortA.mp3", "a as in *Dinah*: **dat**, **casa**", "http://wheelockslatin.com/"]
+    }
+}
