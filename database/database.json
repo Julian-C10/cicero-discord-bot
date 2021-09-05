@@ -3,141 +3,146 @@
         "words": [
             {
                 "audioFilename": "amabo.mp3",
-                "latin": "amābō tē",
-                "english": "*please*",
+                "latin": "am\u0101b\u014d t\u0113",
+                "english": "please",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "amo.mp3",
-                "latin": "amō, amāre, amāvī, amātum",
-                "english": "*to love, like*",
+                "latin": "am\u014d, am\u0101re, am\u0101v\u012b, am\u0101tum",
+                "english": "to love, like",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "cogito.mp3",
-                "latin": "cōgitō, cōgitāre, cōgitāvī, cōgitātum",
-                "english": "*to think, ponder, consider, plan*",
+                "latin": "c\u014dgit\u014d, c\u014dgit\u0101re, c\u014dgit\u0101v\u012b, c\u014dgit\u0101tum",
+                "english": "to think, ponder, consider, plan",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "conservo.mp3",
-                "latin": "cōnservō, cōnservāre, cōnservāvī, cōnservātum",
-                "english": "*to preserve, conserve, maintain*",
+                "latin": "c\u014dnserv\u014d, c\u014dnserv\u0101re, c\u014dnserv\u0101v\u012b, c\u014dnserv\u0101tum",
+                "english": "to preserve, conserve, maintain",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "debeo.mp3",
-                "latin": "dḗbeō, dēbḗre, dḗbuī, dḗbitum",
-                "english": "*to owe; ought, must, should*",
+                "latin": "d\u1e17be\u014d, d\u0113b\u1e17re, d\u1e17bu\u012b, d\u1e17bitum",
+                "english": "to owe; ought, must, should",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "do.mp3",
-                "latin": "dō, dare, dedī, datum",
-                "english": "*to give, offer*",
+                "latin": "d\u014d, dare, ded\u012b, datum",
+                "english": "to give, offer",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "erro.mp3",
-                "latin": "errō, errāre, errāvī, errātum",
-                "english": "*to wander; err, go astray; make a mistake, be mistaken*",
+                "latin": "err\u014d, err\u0101re, err\u0101v\u012b, err\u0101tum",
+                "english": "to wander; err, go astray; make a mistake, be mistaken",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "laudo.mp3",
-                "latin": "laudō, laudāre, laudāvī, laudātum",
-                "english": "*to praise*",
+                "latin": "laud\u014d, laud\u0101re, laud\u0101v\u012b, laud\u0101tum",
+                "english": "to praise",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "me.mp3",
-                "latin": "mē",
-                "english": "*me, myself*",
+                "latin": "m\u0113",
+                "english": "me, myself",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "moneo.mp3",
-                "latin": "moneō, monēre, monuī, monitum",
-                "english": "*to remind, advise, warn*",
+                "latin": "mone\u014d, mon\u0113re, monu\u012b, monitum",
+                "english": "to remind, advise, warn",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "nihil.mp3",
                 "latin": "nihil",
-                "english": "*nothing*",
+                "english": "nothing",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "non.mp3",
-                "latin": "nōn",
-                "english": "*not*",
+                "latin": "n\u014dn",
+                "english": "not",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "quid.mp3",
                 "latin": "quid",
-                "english": "*what*",
+                "english": "what",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "saepe.mp3",
                 "latin": "saepe",
-                "english": "*often*",
+                "english": "often",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "salve.mp3",
-                "latin": "salvē, salvēte",
-                "english": "*hello, greetings*",
+                "latin": "salv\u0113, salv\u0113te",
+                "english": "hello, greetings",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "salveo.mp3",
-                "latin": "salveō, salvēre",
-                "english": "*to be well, be in good health*",
+                "latin": "salve\u014d, salv\u0113re",
+                "english": "to be well, be in good health",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "servo.mp3",
-                "latin": "servō, servāre, servāvī, servātum",
-                "english": "*to preserve, save, keep, guard*",
+                "latin": "serv\u014d, serv\u0101re, serv\u0101v\u012b, serv\u0101tum",
+                "english": "to preserve, save, keep, guard",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "si.mp3",
-                "latin": "sī",
-                "english": "*if*",
+                "latin": "s\u012b",
+                "english": "if",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "terreo.mp3",
-                "latin": "terreō, terrēre, terruī, territum",
-                "english": "*to frighten, terrify*",
+                "latin": "terre\u014d, terr\u0113re, terru\u012b, territum",
+                "english": "to frighten, terrify",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "vale.mp3",
-                "latin": "valē, valēte",
-                "english": "*good-bye, farewell*",
+                "latin": "val\u0113, val\u0113te",
+                "english": "good-bye, farewell",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "valeo.mp3",
-                "latin": "valeō, valēre, valuī, valitūrum",
-                "english": "*to be strong, have power; be well*",
+                "latin": "vale\u014d, val\u0113re, valu\u012b, valit\u016brum",
+                "english": "to be strong, have power; be well",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "video.mp3",
-                "latin": "videō, vidēre, vīdī, vīsum",
-                "english": "*to see; observe, understand*",
+                "latin": "vide\u014d, vid\u0113re, v\u012bd\u012b, v\u012bsum",
+                "english": "to see; observe, understand",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "voco.mp3",
-                "latin": "vocō, vocāre, vocāvī, vocātum",
-                "english": "*to call, summon*",
+                "latin": "voc\u014d, voc\u0101re, voc\u0101v\u012b, voc\u0101tum",
+                "english": "to call, summon",
                 "source": "http://wheelockslatin.com/"
+            },
+            {
+                "latin": "labor, -b\u014dris, m.",
+                "english": "labor, work, toil",
+                "source": "Wheelock, Frederic M.; LaFleur, Richard A.. Wheelock's Latin, 7th Edition (The Wheelock's Latin Series). Collins Reference. Kindle Edition."
             }
         ]
     },

@@ -1,5 +1,7 @@
+import json
+
 chapter = input("Chapter: ")
-if chapter != 'numbers' and  (not chapter.isnumeric() or int(chapter) < 1 or int(chapter) > 40):
+if not chapter.isnumeric() or int(chapter) < 1 or int(chapter) > 40:
     print("Invalid chapter entry. [1-40] or 'numbers'")
     quit()
 latin = input("Latin text (4 forms, don't forget macrons!): ")
@@ -15,7 +17,7 @@ word['source'] = source
 
 databaseFilename = "../database/database.json"
 
-with open(databaseFilename, "r") as json_file:
+with open(databaseFilename, "r", encoding='utf8') as json_file:
     db = json.load(json_file)
 
 relevantWords = db[f'chapter {chapter}']['words']
