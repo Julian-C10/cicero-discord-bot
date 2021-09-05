@@ -1,6 +1,6 @@
 {
     "chapter 1": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "amabo.mp3",
                 "latin": "amābō tē",
@@ -142,7 +142,7 @@
         ]
     },
     "chapter 2": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "antiqua.mp3",
                 "source": "http://wheelockslatin.com/"
@@ -254,7 +254,7 @@
         ]
     },
     "chapter 3": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "ager.mp3",
                 "source": "http://wheelockslatin.com/"
@@ -342,7 +342,7 @@
         ]
     },
     "chapter 4": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "adiuvo.mp3",
                 "source": "http://wheelockslatin.com/"
@@ -450,7 +450,7 @@
         ]
     },
     "chapter 5": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "adulescentia.mp3",
                 "source": "http://wheelockslatin.com/"
@@ -558,7 +558,7 @@
         ]
     },
     "chapter 6": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "dea.mp3",
                 "source": "http://wheelockslatin.com/"
@@ -654,7 +654,7 @@
         ]
     },
     "chapter 7": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "amor.mp3",
                 "source": "http://wheelockslatin.com/"
@@ -754,7 +754,7 @@
         ]
     },
     "chapter 8": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "ad.mp3",
                 "source": "http://wheelockslatin.com/"
@@ -858,7 +858,7 @@
         ]
     },
     "chapter 9": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "alii.mp3",
                 "source": "http://wheelockslatin.com/"
@@ -950,7 +950,7 @@
         ]
     },
     "chapter 10": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "amicitia.mp3",
                 "source": "http://wheelockslatin.com/"
@@ -1034,7 +1034,7 @@
         ]
     },
     "chapter 11": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "amicus.mp3",
                 "source": "http://wheelockslatin.com/"
@@ -1110,7 +1110,7 @@
         ]
     },
     "chapter 12": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "acerbus.mp3",
                 "source": "http://wheelockslatin.com/"
@@ -1182,7 +1182,7 @@
         ]
     },
     "chapter 13": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "alo.mp3",
                 "source": "http://wheelockslatin.com/"
@@ -1254,7 +1254,7 @@
         ]
     },
     "chapter 14": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "ab.mp3",
                 "source": "http://wheelockslatin.com/"
@@ -1350,7 +1350,7 @@
         ]
     },
     "chapter 15": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "centum.mp3",
                 "source": "http://wheelockslatin.com/"
@@ -1406,7 +1406,7 @@
         ]
     },
     "chapter 16": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "acer.mp3",
                 "source": "http://wheelockslatin.com/"
@@ -1490,7 +1490,7 @@
         ]
     },
     "chapter 17": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "admitto.mp3",
                 "source": "http://wheelockslatin.com/"
@@ -1562,7 +1562,7 @@
         ]
     },
     "chapter 18": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "clarus.mp3",
                 "source": "http://wheelockslatin.com/"
@@ -1630,7 +1630,7 @@
         ]
     },
     "chapter 19": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "argumentum.mp3",
                 "source": "http://wheelockslatin.com/"
@@ -1714,7 +1714,7 @@
         ]
     },
     "chapter 20": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "careo.mp3",
                 "source": "http://wheelockslatin.com/"
@@ -1802,7 +1802,7 @@
         ]
     },
     "chapter 21": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "asper.mp3",
                 "source": "http://wheelockslatin.com/"
@@ -1902,7 +1902,7 @@
         ]
     },
     "chapter 22": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "aequus.mp3",
                 "source": "http://wheelockslatin.com/"
@@ -1986,7 +1986,7 @@
         ]
     },
     "chapter 23": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "aliquis.mp3",
                 "source": "http://wheelockslatin.com/"
@@ -2078,7 +2078,7 @@
         ]
     },
     "chapter 24": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "accipio.mp3",
                 "source": "http://wheelockslatin.com/"
@@ -2162,7 +2162,7 @@
         ]
     },
     "chapter 25": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "ait.mp3",
                 "source": "http://wheelockslatin.com/"
@@ -2238,7 +2238,7 @@
         ]
     },
     "chapter 26": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "cena.mp3",
                 "source": "http://wheelockslatin.com/"
@@ -2318,7 +2318,7 @@
         ]
     },
     "chapter 27": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "delectatio.mp3",
                 "source": "http://wheelockslatin.com/"
@@ -2390,7 +2390,7 @@
         ]
     },
     "chapter 28": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "arma.mp3",
                 "source": "http://wheelockslatin.com/"
@@ -2462,7 +2462,7 @@
         ]
     },
     "chapter 29": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "condo.mp3",
                 "source": "http://wheelockslatin.com/"
@@ -2558,7 +2558,7 @@
         ]
     },
     "chapter 30": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "bibo.mp3",
                 "source": "http://wheelockslatin.com/"
@@ -2642,7 +2642,7 @@
         ]
     },
     "chapter 31": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "adfero.mp3",
                 "source": "http://wheelockslatin.com/"
@@ -2738,7 +2738,7 @@
         ]
     },
     "chapter 32": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "custodia.mp3",
                 "source": "http://wheelockslatin.com/"
@@ -2794,7 +2794,7 @@
         ]
     },
     "chapter 33": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "candidus.mp3",
                 "source": "http://wheelockslatin.com/"
@@ -2866,7 +2866,7 @@
         ]
     },
     "chapter 34": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "adversus.mp3",
                 "source": "http://wheelockslatin.com/"
@@ -2962,7 +2962,7 @@
         ]
     },
     "chapter 35": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "aestas.mp3",
                 "source": "http://wheelockslatin.com/"
@@ -3046,7 +3046,7 @@
         ]
     },
     "chapter 36": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "accedo.mp3",
                 "source": "http://wheelockslatin.com/"
@@ -3130,7 +3130,7 @@
         ]
     },
     "chapter 37": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "abeo.mp3",
                 "source": "http://wheelockslatin.com/"
@@ -3242,7 +3242,7 @@
         ]
     },
     "chapter 38": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "arbor.mp3",
                 "source": "http://wheelockslatin.com/"
@@ -3334,7 +3334,7 @@
         ]
     },
     "chapter 39": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "aedificium.mp3",
                 "source": "http://wheelockslatin.com/"
@@ -3410,7 +3410,7 @@
         ]
     },
     "chapter 40": {
-        "audioFiles": [
+        "words": [
             {
                 "audioFilename": "aes.mp3",
                 "source": "http://wheelockslatin.com/"
