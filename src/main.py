@@ -2,19 +2,25 @@ import discord
 import json
 import random
 import os.path
+import time
+import sys
 from decouple import config
-from messages import *
 from myWebServer import keep_alive
+from miscHandler import *
+from vocabHandler import *
+from worksheetHandler import *
+from cache import *
+from util import databasePath
 
 client = discord.Client()
-
-databasePath = "../database/database.json"
 
 with open(databasePath, 'r', encoding='utf8') as jsonFile:
     db = json.load(jsonFile)
 
-# with open(databasePath, "w") as file:
-#     json.dump(data, file)
+shouldProfile = False
+
+if len(sys.argv) > 1 and '-p' in sys.argv:
+    shouldProfile = True
 
 @client.event
 async def on_ready():
@@ -22,72 +28,63 @@ async def on_ready():
 
 @client.event
 async def on_message(message):
+    global db
+    if shouldProfile:
+        start_time = time.process_time()
+
+    if db_is_changed():
+        clear_lists()
+        with open(databasePath, 'r', encoding='utf8') as jsonFile:
+            db = json.load(jsonFile)
+    
     splitMsg = message.content.lower().split()
 
-    if message.author == client.user or len(splitMsg) < 1:
+    if message.author == client.user or len(splitMsg) < 1 or (type(message.channel) is discord.TextChannel and message.channel.name == 'suggestions'):
         return
 
-    if splitMsg[0] == '!hello':
-        await message.channel.send(latin_greeting())
+    if splitMsg[0] == 'hello':
+        await send_greeting(message)
 
-    elif splitMsg[0] == '!history':
-        await message.channel.send(latin_history())
+    elif len(splitMsg) == 2 and splitMsg[0] == 'latin' and splitMsg[1] == 'history':
+        await send_history(message)
 
-    elif splitMsg[0] == 'requests':
-        await message.channel.send(help_msg())
+    elif len(splitMsg) == 2 and splitMsg[0] == 'bot' and splitMsg[1] == 'commands':
+        await send_commands(message)
 
-    elif (len(splitMsg) >= 4 and splitMsg[0] == 'chapter' and splitMsg[1].isnumeric() and int(splitMsg[1]) >= 1 and 
-        int(splitMsg[1]) <= 40 and splitMsg[2] == 'vocab'):
+    elif (len(splitMsg) >= 3 and splitMsg[0] == 'chapter' and splitMsg[1].isnumeric() and 
+        int(splitMsg[1]) >= 1 and int(splitMsg[1]) <= 40):
         # List all vocab words in the chapter
-        if (splitMsg[3] == 'list'):
-            if not(os.path.isfile(construct_vocab_list_path(splitMsg[1]))):
-                num = splitMsg[1]
-                words = db[f'chapter {splitMsg[1]}']['words']
-                longestLineLen = longest_line_length(words)
-                msg = ''
-                for i in range(0, len(words)):
-                    msg += list_string_format(longestLineLen + 5, words[i]['latin'], words[i]['english'])
-                with open(construct_vocab_list_path(num), 'w', encoding='utf8') as vocabList:
-                    vocabList.write(msg)
-            await message.channel.send(file=discord.File(fp=construct_vocab_list_path(splitMsg[1])))
+        if len(splitMsg) == 5 and splitMsg[2] == 'vocab' and splitMsg[3] == 'extended' and splitMsg[4] == 'list':
+            await send_vocab_extended_list(message, splitMsg, db)
+
+        # List all vocab words with an audio file in the chapter
+        elif len(splitMsg) == 4 and splitMsg[2] == 'vocab' and splitMsg[3] == 'list':
+            await send_vocab_list(message, splitMsg, db)
 
         # Display a random vocab word in the chapter
-        elif (splitMsg[3] == 'word'):
-            num = splitMsg[1]
-            words = db['chapter ' + num]['words']
-            index = random.randint(0, len(words) - 1)
-            word = words[index]
-            filepath = construct_sound_path(num, word['audioFilename'])
-            transcript = f"{word['latin']}\n*{word['english']}*"
-            await message.channel.send(file=discord.File(fp=filepath, filename="audio.mp3"), content=transcript)
+        elif len(splitMsg) == 4 and splitMsg[2] == 'vocab' and splitMsg[3] == 'word':
+            await send_random_word(message, splitMsg, db)
 
-def construct_sound_path(num, filename):
-    return '../sounds/' + num + '/vocabulary/' + filename
+        # Display a specific vocab word in the chapter
+        elif len(splitMsg) == 5 and splitMsg[2] == 'vocab' and splitMsg[3] == 'word':
+            await send_specific_word(message, splitMsg, db)
 
-def construct_vocab_list_path(num):
-    return f'../vocab-lists/chapter{num}VocabList.txt'
+        # List all vocab words in chapter in one language
+        elif len(splitMsg) == 5 and splitMsg[2] == 'vocab' and splitMsg[3] == 'test' and splitMsg[4] in languages:
+            await send_vocab_test(message, splitMsg, db)
 
-def longest_line_length(words):
-    maxLen = len(words[0]['latin'])
-    for i in range(1, len(words)):
-        if len(words[i]['latin']) > maxLen:
-            maxLen = len(words[i]['latin'])
-    return maxLen
+        elif len(splitMsg) == 3 and splitMsg[2] == 'exercises':
+            await send_exercises_blank(message, splitMsg, db)
 
-def list_string_format(maxLatinLen, latinText, englishText):
-    i = 0
-    msg = ''
-    for c in latinText:
-        msg += c
-        i += 1
-    while i < maxLatinLen:
-        msg += ' '
-        i += 1
-    i = 0
-    for c in englishText:
-        msg += c
-    msg += '\n'
-    return msg
+        elif len(splitMsg) == 4 and splitMsg[2] == 'exercises' and splitMsg[3] == 'key':
+            await send_exercises_key(message, splitMsg, db)
+
+        elif len(splitMsg) == 3 and splitMsg[2] == 'sentences':
+            await send_sentences(message, splitMsg, db)
+    
+    if shouldProfile:
+        elapsed_time = time.process_time() - start_time
+        print("elapsed time: %.9fs" % elapsed_time)
 
 keep_alive()
 client.run(config('TOKEN'))

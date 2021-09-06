@@ -2,7 +2,7 @@ amābō tē                                          please
 amō, amāre, amāvī, amātum                         to love, like
 cōgitō, cōgitāre, cōgitāvī, cōgitātum             to think, ponder, consider, plan
 cōnservō, cōnservāre, cōnservāvī, cōnservātum     to preserve, conserve, maintain
-dḗbeō, dēbḗre, dḗbuī, dḗbitum                     to owe; ought, must, should
+dēbeō, dēbēre, dēbuī, dēbitum                     to owe; ought, must, should
 dō, dare, dedī, datum                             to give, offer
 errō, errāre, errāvī, errātum                     to wander; err, go astray; make a mistake, be mistaken
 laudō, laudāre, laudāvī, laudātum                 to praise
@@ -21,4 +21,3 @@ valē, valēte                                      good-bye, farewell
 valeō, valēre, valuī, valitūrum                   to be strong, have power; be well
 videō, vidēre, vīdī, vīsum                        to see; observe, understand
 vocō, vocāre, vocāvī, vocātum                     to call, summon
-labor, -bōris, m.                                 abor, work, toi
