@@ -56,9 +56,9 @@ async def on_message(message):
             num = splitMsg[1]
             words = db['chapter ' + num]['words']
             index = random.randint(0, len(words) - 1)
-            audioFile = words[index]
-            filepath = construct_sound_path(num, audioFile['audioFilename'])
-            transcript = audioFile['latin'] + '\n' + audioFile['english']
+            word = words[index]
+            filepath = construct_sound_path(num, word['audioFilename'])
+            transcript = f"{word['latin']}\n*{word['english']}*"
             await message.channel.send(file=discord.File(fp=filepath, filename="audio.mp3"), content=transcript)
 
 def construct_sound_path(num, filename):
@@ -75,7 +75,6 @@ def longest_line_length(words):
     return maxLen
 
 def list_string_format(maxLatinLen, latinText, englishText):
-    englishText = englishText[1:][:-1]
     i = 0
     msg = ''
     for c in latinText:
