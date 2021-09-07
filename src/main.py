@@ -6,7 +6,6 @@ import time
 import sys
 from decouple import config
 from myWebServer import keep_alive
-from miscHandler import *
 from vocabHandler import *
 from worksheetHandler import *
 from cache import *
