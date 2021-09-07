@@ -3,7 +3,7 @@ databasePath = "../databases/database.json"
 latin_greeting = "Salve!"
 
 help_msg = """
-Commands you can use:
+Salvē! I will respond to the following requests:
     chapter [1-40] vocab word (example: chapter 1 vocab word)
     chapter [1-40] vocab word <your-word> (example: chapter 1 vocab word hello)
     chapter [1-40] vocab list (example: chapter 1 vocab list)

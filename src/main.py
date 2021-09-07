@@ -10,11 +10,11 @@ from miscHandler import *
 from vocabHandler import *
 from worksheetHandler import *
 from cache import *
-from util import databasePath
+from util import *
 
 client = discord.Client()
 
-with open(databasePath, 'r', encoding='utf8') as jsonFile:
+with open(databasePath, 'r', encoding='utf-8') as jsonFile:
     db = json.load(jsonFile)
 
 shouldProfile = False
@@ -34,7 +34,7 @@ async def on_message(message):
 
     if db_is_changed():
         clear_lists()
-        with open(databasePath, 'r', encoding='utf8') as jsonFile:
+        with open(databasePath, 'r', encoding='utf-8') as jsonFile:
             db = json.load(jsonFile)
     
     splitMsg = message.content.lower().split()
@@ -43,13 +43,13 @@ async def on_message(message):
         return
 
     if splitMsg[0] == 'hello':
-        await send_greeting(message)
+        await message.channel.send(latin_greeting)
+
+    if len(splitMsg) == 1 and (splitMsg[0] == 'cicero?' or splitMsg[0] == 'cicero'):
+        await message.channel.send(help_msg)
 
     elif len(splitMsg) == 2 and splitMsg[0] == 'latin' and splitMsg[1] == 'history':
-        await send_history(message)
-
-    elif len(splitMsg) == 2 and splitMsg[0] == 'bot' and splitMsg[1] == 'commands':
-        await send_commands(message)
+        await message.channel.send(latin_history)
 
     elif (len(splitMsg) >= 3 and splitMsg[0] == 'chapter' and splitMsg[1].isnumeric() and 
         int(splitMsg[1]) >= 1 and int(splitMsg[1]) <= 40):
