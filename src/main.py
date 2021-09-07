@@ -52,10 +52,6 @@ async def on_message(message):
 
     elif (len(splitMsg) >= 3 and splitMsg[0] == 'chapter' and splitMsg[1].isnumeric() and 
         int(splitMsg[1]) >= 1 and int(splitMsg[1]) <= 40):
-        # List all vocab words in the chapter
-        if len(splitMsg) == 5 and splitMsg[2] == 'vocab' and splitMsg[3] == 'extended' and splitMsg[4] == 'list':
-            await send_vocab_extended_list(message, splitMsg, db)
-
         # List all vocab words with an audio file in the chapter
         elif len(splitMsg) == 4 and splitMsg[2] == 'vocab' and splitMsg[3] == 'list':
             await send_vocab_list(message, splitMsg, db)

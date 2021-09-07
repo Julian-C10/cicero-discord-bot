@@ -3,23 +3,6 @@ import random
 import os.path
 from util import standard_error_message
 
-# List all vocab words in the chapter
-async def send_vocab_extended_list(message, splitMsg, db):
-    filePath = construct_vocab_extended_list_path(splitMsg[1])
-    if not(os.path.isfile(filePath)):
-        num = splitMsg[1]
-        words = db[f'chapter {splitMsg[1]}']['words']
-        if 'latin' not in words[0].keys():
-            await message.channel.send(standard_error_message)
-            return
-        longestLineLen = longest_line_length(words, 'latin', isExtended=True)
-        msg = ''
-        for i in range(0, len(words)):
-            msg += list_string_format(longestLineLen + 5, words[i]['latin'], words[i]['english'])
-        with open(filePath, 'w', encoding='utf8') as vocabList:
-            vocabList.write(msg)
-    await message.channel.send(file=discord.File(fp=filePath))
-
 async def send_vocab_list(message, splitMsg, db):
     filePath = construct_vocab_list_path(splitMsg[1])
     if not(os.path.isfile(filePath)):
@@ -102,9 +85,6 @@ def construct_sound_path(num, filename):
 
 def construct_vocab_list_path(num):
     return f'../vocab-lists/{num}/ch{num}-vocab-list.txt'
-
-def construct_vocab_extended_list_path(num):
-    return f'../vocab-lists/{num}/ch{num}-vocab-extended-list.txt'
 
 def construct_vocab_test_path(num, lang):
     return f'../vocab-lists/{num}/ch{num}-vocab-test-{lang}.txt'
