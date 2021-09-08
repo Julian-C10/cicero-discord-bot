@@ -96,3 +96,12 @@ def construct_vocab_list_path(num):
 
 def construct_vocab_test_path(num, lang):
     return f'vocab-lists/{num}/ch{num}-vocab-test-{lang}.txt'
+
+def construct_sound_path(num, filename):
+    return f'sounds/{num}/vocabulary/{filename}'
+
+def construct_vocab_path():
+    return 'vocab-lists'
+
+def construct_vocab_dir_path(num):
+    return f'vocab-lists/{num}'

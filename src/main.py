@@ -31,7 +31,7 @@ async def on_message(message):
         start_time = time.process_time()
 
     if db_is_changed():
-        clear_lists()
+        clear_vocab_lists()
         with open(databasePath, 'r', encoding='utf-8') as jsonFile:
             db = json.load(jsonFile)
     
@@ -102,5 +102,4 @@ if 'TOKEN' in os.environ:
 else:
     token = config('TOKEN')
 
-clear_lists()
 client.run(token)

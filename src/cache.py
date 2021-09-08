@@ -3,7 +3,7 @@ import hashlib
 import json
 from util import *
 
-def clear_lists():
+def clear_vocab_lists():
     for i in range(1, 41):
         if os.path.isfile(construct_vocab_list_path(i)):
             os.remove(construct_vocab_list_path(i))
