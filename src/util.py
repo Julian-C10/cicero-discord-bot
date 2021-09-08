@@ -1,4 +1,5 @@
 databasePath = "databases/database.json"
+dbhashPath = "databases/dbhash.json"
 
 latin_greeting = "Salve!"
 
