@@ -1,7 +1,7 @@
 import discord
 import json
 import random
-import os.path
+import os
 import time
 import sys
 from decouple import config
@@ -99,4 +99,9 @@ async def on_message(message):
         print("elapsed time: %.9fs" % elapsed_time)
 
 #keep_alive()
-client.run(config('TOKEN'))
+if 'TOKEN' in os.environ:
+    token = os.environ['TOKEN']
+else:
+    token = config('TOKEN')
+
+client.run(token)
