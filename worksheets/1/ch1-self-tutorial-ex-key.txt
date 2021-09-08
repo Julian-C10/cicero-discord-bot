@@ -1,115 +1,121 @@
-Give the English pronouns equivalent to each of the following Latin personal endings:
-1    -t   = he, she, it
+1    Give the English pronouns equivalent to each of the following Latin personal endings:
 
-     -mus = we
+     (1) -t   = he, she, it
 
-     -ō   = I
+     (2) -mus = we
 
-     -nt  = they
+     (3) -ō   = I
 
-     -s   = you (singular)
+     (4) -nt  = they
 
-     -tis = you (plural)
+     (5) -s   = you (singular)
 
-Name the following forms and translate each
-The forms are present active infinitives of the 2nd conjugation.
-2    monēre = to advise / warn
+     (6) -tis = you (plural)
 
-     vidēre = to see
+2    Name the following forms and translate each
+     The forms are present active infinitives of the 2nd conjugation.
 
-     valēre = to be strong
+     (1) monēre = to advise / warn
 
-     dēbēre = to owe
+     (2) vidēre = to see
 
-The forms are present active infinitives of the 1st conjugation
-3    vocāre   = to call
+     (3) valēre = to be strong
 
-     servāre  = to save
+     (4) dēbēre = to owe
 
-     dare     = to give
+3    The forms are present active infinitives of the 1st conjugation
 
-     cōgitāre = to think
+     (1) vocāre   = to call
 
-     laudāre  = to praise
+     (2) servāre  = to save
 
-     amāre    = to love
+     (3) dare     = to give
 
-     errāre   = to err
+     (4) cōgitāre = to think
 
-The forms are present active imperatives 2nd person singular of the 1st or the 2nd conjugations.
-4    vocā   = call
+     (5) laudāre  = to praise
 
-     servā  = save
+     (6) amāre    = to love
 
-     dā     = give
+     (7) errāre   = to err
 
-     cōgitā = think
+4    The forms are present active imperatives 2nd person singular of the 1st or the 2nd conjugations.
 
-     laudā  = praise
+     (1) vocā   = call
 
-     amā    = love
+     (2) servā  = save
 
-     monē   = advise / warn
+     (3) dā     = give
 
-     vidē   = see
+     (4) cōgitā = think
 
-     valē   = be strong / good-bye
+     (5) laudā  = praise
 
-The forms are present active imperatives 2nd person plural of the 1st or the 2nd conjugations
-5    vocāte   = call
+     (6) amā    = love
 
-     servāte  = save
+     (7) monē   = advise / warn
 
-     date     = give
+     (8) vidē   = see
 
-     cōgitāte = think
+     (9) valē   = be strong / good-bye
 
-     laudāte  = praise
+5    The forms are present active imperatives 2nd person plural of the 1st or the 2nd conjugations
 
-     amāte    = love
+     (1) vocāte   = call
 
-     monēte   = advise / warn
+     (2) servāte  = save
 
-     vidēte   = see
+     (3) date     = give
 
-     valēte   = be strong / good-bye
+     (4) cōgitāte = think
 
-Translate the following words
-6    vocat     = he / she / it / calls, is calling, does call
+     (5) laudāte  = praise
 
-     cōgitāmus = we think
+     (6) amāte    = love
 
-     amant     = they love
+     (7) monēte   = advise / warn
 
-     dēbēs     = you (singular) owe / ought
+     (8) vidēte   = see
 
-     videt     = he sees
+     (9) valēte   = be strong / good-bye
 
-     vident    = they see
+6    Translate the following words
 
-     dēbēmus   = we owe / ought
+     (1) vocat     = he / she / it / calls, is calling, does call
 
-     valēs     = you (singular) are strong
+     (2) cōgitāmus = we think
 
-     errātis   = you (plural) err / are mistaken
+     (3) amant     = they love
 
-     vidēmus   = we see
+     (4) dēbēs     = you (singular) owe / ought
 
-     amat      = he / she /it loves
+     (5) videt     = he sees
 
-     vidētis   = you (plural) see
+     (6) vident    = they see
 
-     errās     = you (singular) err
+     (7) dēbēmus   = we owe / ought
 
-     dant      = they give
+     (8) valēs     = you (singular) are strong
 
-     servāmus  = we save
+     (9) errātis   = you (plural) err / are mistaken
 
-     dat       = he gives
+     (10) vidēmus  = we see
 
-     amant     = they love
+     (11) amat     = he / she /it loves
 
-     vidēs     = you (singular) see
+     (12) vidētis  = you (plural) see
+
+     (13) errās    = you (singular) err
+
+     (14) dant     = they give
+
+     (15) servāmus = we save
+
+     (16) dat      = he gives
+
+     (17) amant    = they love
+
+     (18) vidēs    = you (singular) see
 
 7    Monent mē sī errō = They warn me if I err.
 

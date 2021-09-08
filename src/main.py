@@ -37,16 +37,21 @@ async def on_message(message):
     
     splitMsg = message.content.lower().split()
 
-    if message.author == client.user or len(splitMsg) < 1 or (type(message.channel) is discord.TextChannel and message.channel.name == 'suggestions'):
+    if (message.author == client.user or len(splitMsg) < 1 or 
+       (type(message.channel) is discord.TextChannel and 
+       message.channel.name == 'suggestions')):
         return
 
     if splitMsg[-1][-1] in '!?.,;':
         splitMsg[-1] = splitMsg[-1][:-1]
 
-    if len(splitMsg) == 2 and (splitMsg[0] == 'hello' or splitMsg[0] == 'hi') and splitMsg[1] == 'cicero':
+    elif len(splitMsg) == 1 and (splitMsg[0] == 'examples' or splitMsg[0] == 'example'):
+        await message.channel.send(example_msg) 
+
+    elif len(splitMsg) == 2 and (splitMsg[0] == 'hello' or splitMsg[0] == 'hi') and splitMsg[1] == 'cicero':
         await message.channel.send(latin_greeting)
 
-    if len(splitMsg) == 1 and splitMsg[0] == 'cicero':
+    elif len(splitMsg) == 1 and splitMsg[0] == 'cicero':
         await message.channel.send(help_msg)
 
     elif len(splitMsg) == 3 and splitMsg[0] == 'latin' and splitMsg[1] == 'history' and splitMsg[2] == 'wheelock':
@@ -96,6 +101,10 @@ async def on_message(message):
 
         elif len(splitMsg) == 3 and splitMsg[2] == 'sentences':
             await send_sentences(message, splitMsg, db)
+    
+    elif (len(splitMsg) >= 3 and splitMsg[0] == 'chapter' and not
+         splitMsg[1].isnumeric() and splitMsg[2] in ['vocab', 'exercies', 'sentences']):
+         await message.channel.send(chapter_num_out_of_range_error(splitMsg[1]))
     
     if shouldProfile:
         elapsed_time = time.process_time() - start_time

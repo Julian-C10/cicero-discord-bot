@@ -1,111 +1,120 @@
-Give the English pronouns equivalent to each of the following Latin personal endings:
-1    -t   =
+1    Give the English pronouns equivalent to each of the following Latin personal endings:
 
-     -mus =
+     (1) -t   =
 
-     -ō   =
+     (2) -mus =
 
-     -nt  =
+     (3) -ō   =
 
-     -s   =
+     (4) -nt  =
 
-     -tis =
+     (5) -s   =
 
-Name the following forms and translate each
-2    monēre =
+     (6) -tis =
 
-     vidēre =
+2    Name the following forms and translate each
 
-     valēre =
+     (1) monēre =
 
-     dēbēre =
+     (2) vidēre =
 
-3    vocāre   =
+     (3) valēre =
 
-     servāre  =
+     (4) dēbēre =
 
-     dare     =
+3    Name the following forms and translate each
 
-     cōgitāre =
+     (1) vocāre   =
 
-     laudāre  =
+     (2) servāre  =
 
-     amāre    =
+     (3) dare     =
 
-     errāre   =
+     (4) cōgitāre =
 
-4    vocā   =
+     (5) laudāre  =
 
-     servā  =
+     (6) amāre    =
 
-     dā     =
+     (7) errāre   =
 
-     cōgitā =
+4    Name the following forms and translate each
 
-     laudā  =
+     (1) vocā   =
 
-     amā    =
+     (2) servā  =
 
-     monē   =
+     (3) dā     =
 
-     vidē   =
+     (4) cōgitā =
 
-     valē   =
+     (5) laudā  =
 
-5    vocāte   =
+     (6) amā    =
 
-     servāte  =
+     (7) monē   =
 
-     date     =
+     (8) vidē   =
 
-     cōgitāte =
+     (9) valē   =
 
-     laudāte  =
+5    Name the following forms and translate each
 
-     amāte    =
+     (1) vocāte   =
 
-     monēte   =
+     (2) servāte  =
 
-     vidēte   =
+     (3) date     =
 
-     valēte   =
+     (4) cōgitāte =
 
-Translate the following words
-6    vocat     =
+     (5) laudāte  =
 
-     cōgitāmus =
+     (6) amāte    =
 
-     amant     =
+     (7) monēte   =
 
-     dēbēs     =
+     (8) vidēte   =
 
-     videt     =
+     (9) valēte   =
 
-     vident    =
+6    Translate the following words
 
-     dēbēmus   =
+     (1) vocat     =
 
-     valēs     =
+     (2) cōgitāmus =
 
-     errātis   =
+     (3) amant     =
 
-     vidēmus   =
+     (4) dēbēs     =
 
-     amat      =
+     (5) videt     =
 
-     vidētis   =
+     (6) vident    =
 
-     errās     =
+     (7) dēbēmus   =
 
-     dant      =
+     (8) valēs     =
 
-     servāmus  =
+     (9) errātis   =
 
-     dat       =
+     (10) vidēmus  =
 
-     amant     =
+     (11) amat     =
 
-     vidēs     =
+     (12) vidētis  =
+
+     (13) errās    =
+
+     (14) dant     =
+
+     (15) servāmus =
+
+     (16) dat      =
+
+     (17) amant    =
+
+     (18) vidēs    =
 
 7    Monent mē sī errō =
 

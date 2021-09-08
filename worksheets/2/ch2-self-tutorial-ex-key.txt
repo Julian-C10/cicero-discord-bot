@@ -1,0 +1,174 @@
+1   Give the Latin translation for the definite artile "the" and the indefinite article "a"
+
+    In classical Latin there was no regular definite or indefinite article. The words "the" and "a" have to be
+    added in the English translation according to the sense of a Latin passage. Thus puella may mean "the girl"
+    or "a girl" and puellae may mean "the girls" or "girls" according to the Latin context. Often in an
+    isolated sentence "the" and "a" can be used interchangeably, or perhaps no article at all need be used.
+
+2   Name the Latin case for each of the following constructions or ideas:
+
+    (1) direct object of a verb   = acc. case
+
+    (2) posession                 = gen. case
+
+    (3) subject of a verb         = nom. case
+
+    (4) means                     = abl.
+
+    (5) direct address            = voc.
+
+    (6) indirect object of a verb = dat.
+
+3   Name the case, number, and syntactical usage indicated by each of the following endings of the 1st declension:
+
+    (1) -ās       = acc. pl. as direct object of a verb
+
+    (2) -a        = nom. sg. as subject of a verb or voc. sg. for direct address
+
+    (3) -am       = acc. sg. as direct object
+
+    (4) -ae (pl.) = nom. pl. subject, or voc. for direct address
+
+4   Name the case(s) and number indicated by the following endings, and 
+    wherever possible name the English preposition(s) which can be associated with them
+
+    (1) -ārum = gen. pl., of
+
+    (2) -ā    = abl. sg., by /with / from, etc.
+
+    (3) -ae   = gen. sg., of; dat. sg., to / for; nom. pl.; voc. pl.;
+
+    (4) -īs   = dat. pl., to / for; abl. pl., by / with / from, etc.
+
+5   Translate the following nouns and state the syntactical usage of each as indicated by its ending:
+
+    (1) puellam               = girl, direct obj. of verb
+
+    (2) puella                = girl, subject or vocative
+
+    (3) puellās               = girls, object
+
+    (4) puellae (plural form) = girls, subj. or voc.
+
+    (5) patriās               = countries, obj.
+
+    (6) patriam               = country, obj.
+
+    (7) patria                = country, subj. or voc.
+
+    (8) patriae (pl.)         = countries, subj. or voc.
+
+    (9) pecūniam              = money, obj.
+
+    (10) pecūnia              = money, subj. or voc.
+
+    (11) poenās               = penalties, obj.
+
+    (12) poenam               = penalty, obj.
+
+6   Translate the following nouns in accordance with their case endings:
+
+    (1) puellae (sg.)  = of the girl, girl's, or to / for the girl
+
+    (2) puellārum      = of the girls, girls'
+
+    (3) Ō patria       = girls, object
+
+    (4) patriae (sg.)  = girls, subj, or voc.
+
+    (5) pecūniā        = countries, obj.
+
+    (6) pecūniae (sg.) = country, obj.
+
+    (7) poenīs         = country, subj. or voc.
+
+    (8) poenā          = countries, subj. or voc.
+
+    (9) poenārum       = of penalties
+
+7   Given the following nominative singular forms, write the Latin forms requested in each instance:
+
+    (1) multa pecūnia in the genitive and accusative singular = multae pecūniae, multam pecūniam
+
+    (2) magna fāma in dat. and abl. sg                        = magnae fāmae, magnā fāmā
+    
+    (3) vita mea in gen. sg.                                  = vītae meae, vītae meae
+
+    (4) fortūna tua in acc. sg. and pl.                       = fortūnam tuam, fortūnās tuās
+
+    (5) magna patria in gen. sg. and pl.                      = magnae patriae, magnārum patriārum
+
+    (6) fortūna mea in abl. sg. and pl.                       = fortūnā meā, fortūnīs meīs
+
+    (7) magna poena in dat. sg. and pl.                       = magnae poenae, magnīs poenīs
+
+    (8) multa philosophia in dat. and abl. pl.                = multīs philosophiīs, multīs philosophiīs
+
+8   Translate each of the following phrases into Latin according to the case either named or 
+    indicated by the English preposition in each instance
+
+    (1) by much money                           = multā pecūniā
+
+    (2) of any girls                            = multārum puellārum
+
+    (3) to / for my country                     = meae patriae
+
+    (4) great life (as direct object of a verb) = magnam vītam
+
+    (5) by your penalties                       = tuīs poenīs
+
+    (6) many countries (subject of a verb)      = multae patriae
+
+    (7) to / for many girls                     = multīs puellīs
+
+    (8) of my life                              = meae vītae
+
+    (9) O fortune                               = Ō fortūna
+
+    (10) girl's                                 = puellae
+
+    (11) girls'                                 = puellārum
+
+    (12) girls (direct address)                 = puellae
+
+    (13) the girls (direct object of a verb)    = puellās
+
+    (14) the girls (subject of a verb)          = puellae
+
+9   Valē, patria mea = Farewell (goodbye), my native land.
+
+10  Fortūna puellae est magna = The fortune of the girl (the girl's fortune) is great.
+
+11  Puella fortūnam patriae tuae laudat = The girl is praising the fortune of your (sg.) country.
+
+12  Ō puella, patriam tuam servā = O girl, save your country.
+
+13  Multae puellae pecūniam amant = Many girls love money.
+
+14  Puellae nihil datis = You (pl.) are giving nothing to the girl; You give nothing to a girl
+
+15  Pecūniam puellae videt = He sees the money of the girl
+
+16  Pecūniam puellārum nōn vidēs = You (sg.) do not see the girls' money.
+
+17  Monēre puellās dēbēmus = We ought to warn the girls.
+
+18  Laudāre puellam dēbent = They ought to praise the girl.
+
+19  Vīta multīs puellīs fortūnam dat = Life gives (good) fortune to many girls.
+
+20  Vītam meam pecūniā tuā cōnservās = You (sg.) are saving my life by your money; You (sg.) are saving my life with your money.
+
+21  Fāma est nihil sine fortūnā = Fame is nothing without fortune.
+
+22  Vītam sine pecūniā nōn amātis = You (pl.) do not like life without money.
+
+23  Sine fāmā et fortūnā patria nōn valet = A country is not strong without fame and fortune.
+
+24  Īram puellārum laudāre nōn dēbēs = You (sg.) ought not to praise the anger of the girls.
+
+25  Vītam sine poenīs amāmus = We like a life without punishments.
+
+26  Sine philosophiā nōn valēmus = We are not strong without philosophy.
+
+27  Quid est vīta sine philosophiā = What is life without philosophy?

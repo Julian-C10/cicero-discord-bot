@@ -22,12 +22,16 @@ Salvē! I will respond to the following messages:
     chapter [1-40] exercises key
     chapter [1-40] sentences
 All translations and audio credited to http://wheelockslatin.com/
-Try asking me something!
+Try asking me something! (type "examples" if you want to see some examples)
 """
 
 example_msg = """
+The following messages are examples of requests I would respond to:
+    cicero
+    latin history wheelock
+    vocab word hello
     chapter 1 vocab word
-    chapter 1 vocab word hello
+    chapter 1 vocab word please
     chapter 1 vocab list
     chapter 1 vocab test latin
     chapter 1 exercises
