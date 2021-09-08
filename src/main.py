@@ -58,6 +58,10 @@ async def on_message(message):
     elif len(splitMsg) in range(2, 4) and splitMsg[0] == 'latin' and splitMsg[1] == 'history':
         await message.channel.send(latin_history_error)
 
+    # Display a specific vocab word in the chapter
+    elif len(splitMsg) >= 3 and len(splitMsg) < 20 and splitMsg[0] == 'vocab' and splitMsg[1] == 'word':
+        await send_specific_word_all_chapters(message, splitMsg, db)
+
     elif len(splitMsg) >= 3 and splitMsg[0] == 'chapter' and splitMsg[1].isnumeric():
         # List all vocab words with an audio file in the chapter
         if len(splitMsg) == 4 and splitMsg[2] == 'vocab' and splitMsg[3] == 'list':

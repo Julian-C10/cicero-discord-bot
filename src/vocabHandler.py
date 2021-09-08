@@ -97,6 +97,38 @@ async def send_specific_word(message, splitMsg, db):
         else:
             await message.channel.send(transcript)
 
+# Display a specific vocab word in the chapter
+async def send_specific_word_all_chapters(message, splitMsg, db):
+    desiredWords = splitMsg[2:]
+    for num in range(1, 41):
+        words = db[f'chapter {num}']['words']
+        if 'latin' not in words[0].keys():
+            await message.channel.send(standard_error_message)
+            return
+        index = -1
+        for i in range(0, len(words)):
+            found = True
+            for desiredWord in desiredWords:
+                if desiredWord not in words[i]['latin'] and desiredWord not in words[i]['english']:
+                    found = False
+                    break
+            if found:
+                index = i
+                break
+        
+    if index == -1:
+        reconstructedMsg = ' '.join(desiredWords)
+        await message.channel.send(missing_specific_vocab_word_all_chapters_error(reconstructedMsg))
+    
+    else:
+        word = words[index]
+        transcript = f"chapter {num}\n{word['latin']}\n*{word['english']}*"
+        if 'audioFilename' in word.keys():
+            filepath = construct_sound_path(num, word['audioFilename'])
+            await message.channel.send(file=discord.File(fp=filepath, filename="audio.mp3"), content=transcript)
+        else:
+            await message.channel.send(transcript)
+
 def longest_line_length(words, lang, isExtended):
     maxLen = len(words[0][lang])
     for i in range(1, len(words)):
