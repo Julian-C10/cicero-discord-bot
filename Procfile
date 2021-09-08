@@ -1,1 +1,0 @@
-workers:python main.py
