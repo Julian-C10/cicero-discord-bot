@@ -1,7 +1,7 @@
 import discord
 import random
 import os.path
-from util import standard_error_message
+from util import *
 
 async def send_vocab_list(message, splitMsg, db):
     filePath = construct_vocab_list_path(splitMsg[1])
@@ -58,18 +58,24 @@ async def send_random_word(message, splitMsg, db):
 # Display a specific vocab word in the chapter
 async def send_specific_word(message, splitMsg, db):
     num = splitMsg[1]
-    desiredWord = splitMsg[4]
-    words = db['chapter ' + num]['words']
+    desiredWords = splitMsg[4:]
+    words = db[f'chapter {num}']['words']
     if 'latin' not in words[0].keys():
         await message.channel.send(standard_error_message)
         return
     index = -1
     for i in range(0, len(words)):
-        if desiredWord in words[i]['latin'] or desiredWord in words[i]['english']:
+        found = True
+        for desiredWord in desiredWords:
+            if desiredWord not in words[i]['latin'] and desiredWord not in words[i]['english']:
+                found = False
+                break
+        if found:
             index = i
             break
     if index == -1:
-        await message.channel.send(f'Sorry, I couldn\'t find a vocab entry for "{desiredWord}" in chapter {num}.')
+        reconstructedMsg = ' '.join(desiredWords)
+        await message.channel.send(missing_specific_vocab_word_error(reconstructedMsg, num))
     else:
         word = words[index]
         transcript = f"{word['latin']}\n*{word['english']}*"

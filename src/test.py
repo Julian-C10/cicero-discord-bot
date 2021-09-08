@@ -1,8 +1,6 @@
-myList = [1, 2, 3]
+text = "!"
 
-def adderThing(myList):
-    myList.append(4)
+if text[-1] in "!?.,":
+    text = text[:-1]
 
-adderThing(myList)
-
-print(myList)
+print(text)
