@@ -5,6 +5,7 @@ from util import *
 
 async def send_vocab_list(message, splitMsg, db):
     filePath = construct_vocab_list_path(splitMsg[1])
+    dirPath = construct_vocab_dir_path(splitMsg[1])
     if not(os.path.isfile(filePath)):
         num = splitMsg[1]
         words = db[f'chapter {splitMsg[1]}']['words']
@@ -16,6 +17,8 @@ async def send_vocab_list(message, splitMsg, db):
         for i in range(0, len(words)):
             if 'audioFilename' in words[i].keys():
                 msg += list_string_format(longestLineLen + 5, words[i]['latin'], words[i]['english'])
+        if not os.path.isdir(dirPath):
+            os.mkdir(dirPath)
         with open(filePath, 'w', encoding='utf8') as vocabList:
             vocabList.write(msg)
     await message.channel.send(file=discord.File(fp=filePath))
@@ -24,6 +27,7 @@ async def send_vocab_list(message, splitMsg, db):
 async def send_vocab_test(message, splitMsg, db):
     desiredLang = splitMsg[4]
     filePath = construct_vocab_test_path(splitMsg[1], desiredLang)
+    dirPath = construct_vocab_dir_path(splitMsg[1])
     if not(os.path.isfile(filePath)):
         num = splitMsg[1]
         words = db[f'chapter {splitMsg[1]}']['words']
@@ -35,6 +39,8 @@ async def send_vocab_test(message, splitMsg, db):
         for i in range(0, len(words)):
             if 'audioFilename' in words[i].keys():
                 msg += test_string_format(longestLineLen + 1, words[i][desiredLang])
+        if not os.path.isdir(dirPath):
+            os.mkdir(dirPath)
         with open(filePath, 'w', encoding='utf8') as vocabList:
             vocabList.write(msg)
     await message.channel.send(file=discord.File(fp=filePath))
@@ -88,6 +94,9 @@ async def send_specific_word(message, splitMsg, db):
 
 def construct_sound_path(num, filename):
     return f'sounds/{num}/vocabulary/{filename}'
+
+def construct_vocab_dir_path(num):
+    return f'vocab-lists/{num}'
 
 def construct_vocab_list_path(num):
     return f'vocab-lists/{num}/ch{num}-vocab-list.txt'
