@@ -10,7 +10,9 @@ suggestions_channel_id = "884522427588177951"
 suggest_error_message = f"If you think I should have understood the request you entered, let me know by posting it in <#{suggestions_channel_id}>!"
 
 help_msg = """
-Salvē! I will respond to the following requests:
+Salvē! I will respond to the following messages:
+    Cicero
+    latin history [wheelock-wikipedia]
     chapter [1-40] vocab word
     chapter [1-40] vocab word your_word_here
     chapter [1-40] vocab list
