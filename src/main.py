@@ -75,7 +75,7 @@ async def on_message(message):
         elif len(splitMsg) == 5 and splitMsg[2] == 'vocab' and splitMsg[3] == 'test' and splitMsg[4] in languages:
             await send_vocab_test(message, splitMsg, db)
 
-        elif int(splitMsg[1]) in range(1, 41):
+        elif int(splitMsg[1]) not in range(1, 41):
             await message.channel.send(chapter_num_out_of_range_error(splitMsg[1]))
         
         elif len(splitMsg) in range(3, 6) and splitMsg[2] == 'vocab':
