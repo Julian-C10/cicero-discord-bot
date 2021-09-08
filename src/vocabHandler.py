@@ -98,12 +98,6 @@ def construct_sound_path(num, filename):
 def construct_vocab_dir_path(num):
     return f'vocab-lists/{num}'
 
-def construct_vocab_list_path(num):
-    return f'vocab-lists/{num}/ch{num}-vocab-list.txt'
-
-def construct_vocab_test_path(num, lang):
-    return f'vocab-lists/{num}/ch{num}-vocab-test-{lang}.txt'
-
 def longest_line_length(words, lang, isExtended):
     maxLen = len(words[0][lang])
     for i in range(1, len(words)):

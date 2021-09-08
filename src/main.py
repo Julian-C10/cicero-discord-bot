@@ -97,10 +97,10 @@ async def on_message(message):
         elapsed_time = time.process_time() - start_time
         print("elapsed time: %.9fs" % elapsed_time)
 
-#keep_alive()
 if 'TOKEN' in os.environ:
     token = os.environ['TOKEN']
 else:
     token = config('TOKEN')
 
+clear_lists()
 client.run(token)

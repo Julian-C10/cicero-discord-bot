@@ -5,14 +5,12 @@ from util import *
 
 def clear_lists():
     for i in range(1, 41):
-        if os.path.isfile(f'../vocab-lists/{i}/ch{i}-vocab-extended-list.txt'):
-            os.remove(f'../vocab-lists/{i}/ch{i}-vocab-extended-list.txt')
-        if os.path.isfile(f'../vocab-lists/{i}/ch{i}-vocab-list.txt'):
-            os.remove(f'../vocab-lists/{i}/ch{i}-vocab-list.txt')
-        if os.path.isfile(f'../vocab-lists/{i}/ch{i}-vocab-test-english.txt'):
-            os.remove(f'../vocab-lists/{i}/ch{i}-vocab-test-english.txt')
-        if os.path.isfile(f'../vocab-lists/{i}/ch{i}-vocab-test-latin.txt'):
-            os.remove(f'../vocab-lists/{i}/ch{i}-vocab-test-latin.txt')
+        if os.path.isfile(construct_vocab_list_path(i)):
+            os.remove(construct_vocab_list_path(i))
+        if os.path.isfile(construct_vocab_test_path(i, 'latin')):
+            os.remove(construct_vocab_test_path(i, 'latin'))
+        if os.path.isfile(construct_vocab_test_path(i, 'english')):
+            os.remove(construct_vocab_test_path(i, 'english'))
 
 def db_is_changed():
     # Read hash value

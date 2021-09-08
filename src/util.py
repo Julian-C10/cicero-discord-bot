@@ -90,3 +90,9 @@ def vocab_test_missing_command(num):
     return ("Sorry, I don't understand. Did you mean one of the following?\n"
            f"   chapter {num} vocab test english\n"
            f"   chapter {num} vocab test latin\n") + suggest_error_message
+
+def construct_vocab_list_path(num):
+    return f'vocab-lists/{num}/ch{num}-vocab-list.txt'
+
+def construct_vocab_test_path(num, lang):
+    return f'vocab-lists/{num}/ch{num}-vocab-test-{lang}.txt'
