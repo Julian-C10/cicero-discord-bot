@@ -1,4 +1,4 @@
-databasePath = "../databases/database.json"
+databasePath = "databases/database.json"
 
 latin_greeting = "Salve!"
 
