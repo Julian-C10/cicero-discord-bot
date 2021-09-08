@@ -1,0 +1,7 @@
+decouple
+discord
+random
+os
+time
+sys
+decouple
