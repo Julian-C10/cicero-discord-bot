@@ -87,10 +87,10 @@ def vocab_missing_command(num):
            f"   chapter {num} vocab test latin\n") + suggest_error_message
 
 def missing_specific_vocab_word_error(reconstructedMsg, num):
-    f'Sorry, I couldn\'t find a vocab entry for "{reconstructedMsg}" in chapter {num}.\n' + suggest_error_message
+    return f'Sorry, I couldn\'t find a vocab entry for "{reconstructedMsg}" in chapter {num}.\n' + suggest_error_message
 
 def missing_specific_vocab_word_all_chapters_error(reconstructedMsg):
-    f'Sorry, I couldn\'t find a vocab entry for "{reconstructedMsg}" in any chapter.\n' + suggest_error_message
+    return f'Sorry, I couldn\'t find a vocab entry for "{reconstructedMsg}" in any chapter.\n' + suggest_error_message
 
 def vocab_test_missing_command(num):
     return ("Sorry, I don't understand. Did you mean one of the following?\n"
