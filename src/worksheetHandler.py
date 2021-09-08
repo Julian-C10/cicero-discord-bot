@@ -27,10 +27,10 @@ async def send_sentences(message, splitMsg, db):
         await message.channel.send(file=discord.File(fp=filePath))
 
 def construct_exercises_blank_path(num):
-    return f'../worksheets/{num}/ch{num}-self-tutorial-ex.txt'
+    return f'worksheets/{num}/ch{num}-self-tutorial-ex.txt'
 
 def construct_exercises_key_path(num):
-    return f'../worksheets/{num}/ch{num}-self-tutorial-ex-key.txt'
+    return f'worksheets/{num}/ch{num}-self-tutorial-ex-key.txt'
 
 def construct_sentences_path(num):
-    return f'../worksheets/{num}/ch{num}-sententiae.txt'
+    return f'worksheets/{num}/ch{num}-sententiae.txt'
