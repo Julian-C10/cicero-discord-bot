@@ -102,9 +102,7 @@ async def send_specific_word_all_chapters(message, splitMsg, db):
     desiredWords = splitMsg[2:]
     for num in range(1, 41):
         words = db[f'chapter {num}']['words']
-        if 'latin' not in words[0].keys():
-            await message.channel.send(standard_error_message)
-            return
+        foundWords = True
         index = -1
         for i in range(0, len(words)):
             found = True
@@ -114,7 +112,10 @@ async def send_specific_word_all_chapters(message, splitMsg, db):
                     break
             if found:
                 index = i
+                foundWords = True
                 break
+        if foundWords:
+            break
         
     if index == -1:
         reconstructedMsg = ' '.join(desiredWords)
