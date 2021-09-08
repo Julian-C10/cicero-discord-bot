@@ -87,13 +87,13 @@ async def send_specific_word(message, splitMsg, db):
 
 
 def construct_sound_path(num, filename):
-    return f'../sounds/{num}/vocabulary/{filename}'
+    return f'sounds/{num}/vocabulary/{filename}'
 
 def construct_vocab_list_path(num):
-    return f'../vocab-lists/{num}/ch{num}-vocab-list.txt'
+    return f'vocab-lists/{num}/ch{num}-vocab-list.txt'
 
 def construct_vocab_test_path(num, lang):
-    return f'../vocab-lists/{num}/ch{num}-vocab-test-{lang}.txt'
+    return f'vocab-lists/{num}/ch{num}-vocab-test-{lang}.txt'
 
 def longest_line_length(words, lang, isExtended):
     maxLen = len(words[0][lang])
