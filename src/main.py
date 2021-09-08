@@ -98,5 +98,5 @@ async def on_message(message):
         elapsed_time = time.process_time() - start_time
         print("elapsed time: %.9fs" % elapsed_time)
 
-keep_alive()
+#keep_alive()
 client.run(config('TOKEN'))
