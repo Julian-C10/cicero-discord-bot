@@ -107,6 +107,8 @@ async def send_specific_word_all_chapters(message, splitMsg, db):
         for i in range(0, len(words)):
             found = True
             for desiredWord in desiredWords:
+                latinText = words[i]['latin'].lower()
+                englishText = words[i]['english'].lower()
                 if desiredWord not in words[i]['latin'] and desiredWord not in words[i]['english']:
                     found = False
                     break
