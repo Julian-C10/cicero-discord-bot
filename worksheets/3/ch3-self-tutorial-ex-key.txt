@@ -1,0 +1,152 @@
+1   Name the case, number, and syntactical usage indicated by each of the following
+    endings of masculines of the 2nd declension:
+
+    (1) -um       = acc.sg., obj.
+
+    (2) -ī (pl.)  = nom. pl. as subj., voc. pl. for direct address
+
+    (3) -us       = nom. sg., subj.
+
+    (4) -ōs       = acc. pl. obj.
+
+    (5) -e        = voc. sg., direct address
+
+2   Name the case(s) and number of the following endings, and name the English preposition
+    which can be associated with each:
+
+    (1) -ō       = dat. sg., to / for; abl. sg., by /with, etc.
+
+    (2) -ōrum;   = gen. pl., of
+
+    (3) -ī (sg.) = gen. sg., of
+
+    (4) -īs      = dat. pl., to / for; abl. pl., by / with, etc.
+
+3   Translate the following nouns and state the syntactical usage of each as indicated by its ending:
+
+    (1) fīliōs     = sons, obj.
+
+    (2) fīliī      = sons, subj. or direct address
+
+    (3) fīlium     = son, obj.
+
+    (4) populum    = people, obj.
+
+    (5) popule     = people, direct address
+
+    (6) populus    = people, subj.
+
+    (7) vir        = man, subj. or direct address
+
+    (8) virōs      = men, obj.
+
+    (9) virī (pl.) = men, subj. or direct address
+
+    (10) virum     = man, obj.
+
+    (11) amīce     = friend, direct address
+
+    (12) amīcī     = friends, subj. or direct address
+
+    (13) amīcōs    = friends, obj.
+
+    (14) amīcum    = friend, obj.
+
+4   Translate the following in accordance with their case endings:
+
+    (1) fīliōrum meōrum     = of my sons
+
+    (2) fīliō meō           = to / for my son, by /with, etc., my son
+
+    (3) populī Rōmānī (sg.) = of the Roman people
+
+    (4) populō Rōmānō       = to / for the Roman people, by / with, etc., the Roman people
+
+    (5) virīs               = to / for the men, by / with, etc., the men
+
+    (6) virī (sg.)          = of the man
+
+    (7) virōrum             = of the men
+
+    (8) amīcōrum paucōrum   = of a few friends
+
+    (9) amīcīs paucīs       = to / for or by / with, etc., a few friends
+
+    (10) amīcō meō          = to / for or by / with, etc., my friend
+
+    (11) amīcī meī (sg.)    = of my friend
+
+    (12) multīs puerīs      = to / for or by / with, etc. many boys
+
+5   Given the following nom. sg. forms, write the Latin forms requested in each instance:
+
+    (1) populus Rōmānus in gen. and abl. sg. = populī Rōmānī
+
+    (2) magnus vir in acc. and abl. pl.      = populō Rōmānō
+
+    (3) puer meus in dat. and abl. pl.       = puerīs meīs, puerīs, meīs
+
+    (4) magnus numerus in dat. and abl. pl.  = magnōs virōs, magnīs virīs
+
+    (5) magnus vir in voc. sg. and pl.       = magne vir, magnī virī
+
+    (6) fīlius meus in gen. sg. and pl.      = fīliī meī, fīliōrum meōrum
+
+6   Translate the following phrases into Latin according to the case named
+    or indicated by the English preposition in each instance:
+
+    (1) of many boys                  = multōrum puerōrum
+
+    (2) to / for the Roman people     = populō Rōmānō
+
+    (3) my sons (object of verb)      = fīliōs meōs
+
+    (4) O my sons                     = Ō fīliī meī
+
+    (5) a great number (obj. of verb) = magnum numerum
+
+    (6) by the great number           = magnō numerō
+
+    (7) O great man                   = Ō vir magne
+
+    (8) to / for many boys            = multīs puerīs
+
+    (9) the great man (subj. of verb) = vir magnus
+
+    (10) of the Roman people          = populī Rōmānī
+
+7   Valē, mī amīce. = Good-bye, my friend.
+
+8   Populus Rōmānus sapientiam fīliī tuī laudat. = The Roman people praise your (sg.) son's wisdom.
+
+9   Ō vir magne, populum Rōmānum servā. = O great man, save the Roman people.
+
+10  Numerus populī Rōmānī est magnus. = The number of the Roman people is great.
+
+11  Multī puerī puellās amant. = Many boys love girls.
+
+12  Fīliō meō nihil datis = You (pl.) are giving nothing to my son.
+
+13  Virōs in agrō videō = I see men in the field.
+
+14  Amīcum fīliī meī vidēs = You (sg.) see the friend of my son.
+
+15  Amīcum fīliōrum tuōrum nōn videt. = He does not see your (sg.) sons' friend.
+
+16  Dēbēmus fīliōs meōs monēre. = We ought to warn my sons.
+
+17  Dēbent fīlium tuum laudāre. = They ought to priase your (sg.) son.
+
+18  Vīta paucīs virīs fāmam dat. = LIfe gives fame to few men.
+
+19  Mē in numerō amīcōrum tuōrum habēs. = You (sg.) consider me in the number (circle) of your friends.
+
+20  Virī magnī paucōs amīcōs saepe habent. = Great men often have few friends.
+
+21  Amīcus meus semper cōgitat. = My friend is always thinking.
+
+22  Fīlius magnī virī nōn semper est magnus vir = The son of a great man is not always a great man.
+
+23  Sapientiam magnōrum virōrum nōn semper vidēmus = We do not always see (understand) the wisdom of great men.
+
+24  Philosophiam, sapientiam magnōrum virōrum, laudāre dēbētis = You (pl.) ought to praise philosophy, the wisdom of great men.

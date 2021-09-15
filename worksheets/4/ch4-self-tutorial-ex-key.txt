@@ -1,0 +1,128 @@
+1   A 2nd-declension neuter has the same forms as the regular 2nd-declension masculine except in
+    three instances. Name these three instances and give their neuter endings.
+
+    Nom. sg. in -um; nom. and acc. pl. in -a. Actually the vocative should also be added here; but
+    henceforth, since aside from the singular of 2nd-declension masuclines in -us the vocatives
+    follow the rule of having the same form as the nominative, little specific mention is made
+    of the vocative.
+
+2   Name the case(s), number, and syntactical usage indicated by each of the following endings
+    of the 2nd-declension neuter nouns:
+
+    (1) -a  = nom. pl. as subject; acc. pl. as obj.
+
+    (2) -um = nom. sg. as subj.; acc. sg. as obj.
+
+3   Name the case(s) and number of the following 2nd-declension neuter endings and name the English
+    preposition(s) which can be associated with each:
+
+    (1) -ō    = dat. sg., to / for; abl. sg., by / with, etc.
+
+    (2) -ōrum = gen. pl., of
+
+    (3) -ī    = gen. sg., of
+
+    (4) -īs   = dat. pl., to / for; abl. pl., by / with, etc.
+
+4   Translate the following neuter nous and state the syntactical usage of each as indicated by its ending
+
+    (1) bella    = wars, subj. or obj.
+
+    (2) bellum   = war, subj. or obj.
+
+    (3) officium = duty, subj. or obj.
+
+    (4) officia  = duties, subj. or obj.
+
+    (5) perīcula = dangers subj. or obj.
+
+    Of course any of these (above) forms could also be vocative.
+
+5   Translate the following phrases in accordance with their case endings
+
+    (1) bellōrum malōrum = of evil wars
+
+    (2) bellō malō       = to / for evil war, by / with, etc., evil war
+
+    (3) bellī malī       = of evil war
+
+    (4) bellīs malīs     = to / for evil wars, by / with, etc., evil wars
+
+    (5) officiī magnī    = of great duty or service
+
+    (6) officiīs magnīs  = to / for great duties, by / with, etc., great duties 
+
+    (7) perīculō parvō   = to / for small danger, by / with, etc., small danger
+
+6   Given the following nom. sg. forms, write the Latin forms requested in each instance
+
+    (1) bellum parvum in nom. and acc. pl.   = bella parva, bella parva
+
+    (2) ōtium bonum in acc. sg. and pl.      = ōtium bonum, ōtia bona
+
+    (3) perīculum magnum in gen. sg. and pl. = perīculī magnī, perīculōrum magnōrum
+
+    (4) officium vērum in acc. and abl. sg.  = officium vērum, officiō vērō
+
+7   Translate the following phrases into Latin in accordance with the case named or
+    indicated by the English preposition in each instance:
+
+    (1) O evil war                    = Ō bellum malum
+
+    (2) to / for great duty           = officiō magnō
+
+    (3) by the great danger           = perīculō magnō
+
+    (4) good leisure (object of verb) = ōtium bonum
+
+    (5) by many wars                  = multīs bellīs
+
+    (6) of good leisure               = ōtiī bonī
+
+    (7) by the dangers of many wars   = perīculīs multōrum bellōrum
+
+    (8) small wars (subject of verb)  = bella parva
+
+    (9) small wars (obj. of verb)     = bella parva
+
+    (10) O foolish wars               = Ō bella stulta
+
+    (11) the small war (subj.)        = bellum parvum
+
+8   Ōtium est bonum = Peace (leisure) is good.
+
+9   Multa bella ōtium nōn cōnservant = Many wars do not preserve peace.
+
+10  Perīculum est magnum = The danger is great.
+
+11  In magnō perīculō sumus = We are in great danger.
+
+12  Et ōtium perīcula saepe habet = And leisure often has dangers.
+
+13  Vīta nōn est sine multīs perīculīs = Life is not without many dangers.
+
+14  Bonī virī ōtium amant = Good men love peace.
+
+15  Stultus vir perīcula bellī laudat = The foolish man praises the dangers of war.
+
+16  Ōtium bellō saepe nōn cōnservāmus = Oftwen we do not preserve the peace by war.
+
+17  Populus Rōmānus ōtium bonum nōn semper habet = The Roman people do not always have good peace.
+
+18  Patriam et ōtium bellīs parvīs saepe servant = They often save the fatherland and peace by small wars.
+
+19  Multae puellae sunt bellae = Many girls are pretty.
+
+20  Vērī amīcī sunt paucī = True friends are few.
+
+21  Amīcus meus est vir magnī officiī = My friend is a man of great service.
+
+22  Officia magistrī sunt multa et magna = The duties of a teacher are many and great.
+
+23  Vir parvī ōtiī es = You (sg.) are a man of little leisure.
+
+24  Virī magnae cūrae estis = You (pl.) are men of great care.
+
+25  Sine morā cūram officiō dare dēbēmus = We ought to give attention to duty without delay.
+
+26  Sine oculīs vīta est nihil = Life is nothing without eyes.
