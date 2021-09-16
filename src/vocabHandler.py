@@ -103,10 +103,10 @@ async def send_specific_word(message, splitMsg, db):
 # Display a specific vocab word in the chapter
 async def send_specific_word_all_chapters(message, splitMsg, db):
     desiredWords = splitMsg[2:]
+    index = -1
     for num in range(1, 41):
         words = db[f'chapter {num}']['words']
         foundWords = False
-        index = -1
         for i in range(0, len(words)):
             found = True
             for desiredWord in desiredWords:
