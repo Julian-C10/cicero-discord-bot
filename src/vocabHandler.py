@@ -108,6 +108,8 @@ async def send_specific_word_all_chapters(message, splitMsg, db):
         words = db[f'chapter {num}']['words']
         foundWords = False
         for i in range(0, len(words)):
+            if i in [8, 16, 18, 32]:
+                continue
             found = True
             for desiredWord in desiredWords:
                 latinText = words[i]['latin'].lower()
