@@ -18,6 +18,7 @@ async def send_vocab_list(message, splitMsg, db):
         for i in range(0, len(words)):
             if 'audioFilename' in words[i].keys():
                 msg += list_string_format(longestLineLen + 5, words[i]['latin'], words[i]['english'])
+        msg = "\n".join(msg.split("\n").sort())
         if not os.path.isdir(vocabPath):
             os.mkdir(vocabPath)
         if not os.path.isdir(dirPath):
