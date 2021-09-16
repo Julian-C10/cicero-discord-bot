@@ -1045,102 +1045,152 @@
         "words": [
             {
                 "audioFilename": "ad.mp3",
+                "latin": "ad (+acc.)",
+                "english": "to, up to, near to",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "ago.mp3",
+                "latin": "agō, agere, ēgī, āctum",
+                "english": "to drive, lead, do, act; pass, spend (life or time)",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "cicero.mp3",
+                "latin": "cicero",
+                "english": "(Marcus Tullius) Cicero",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "copia.mp3",
+                "latin": "cōpia, cōpiae (f)",
+                "english": "abundance, supply",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "copiae.mp3",
+                "latin": "cōpiae, cōpiārum (f)",
+                "english": "supplies, troops, forces",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "demonstro.mp3",
+                "latin": "dēmōnstrō, dēmōnstrāre, dēmōnstrāvī, dēmōnstrātum",
+                "english": "to point out, show, demonstrate",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "disco.mp3",
+                "latin": "discō, discere, didicī",
+                "english": "to learn",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "doceo.mp3",
+                "latin": "doceō, docēre, docuī, doctum",
+                "english": "to teach",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "duco.mp3",
+                "latin": "dūcō, dūcere, dūxī, ductum",
+                "english": "to lead; consider, regard; prolong",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "dum.mp3",
+                "latin": "dum",
+                "english": "while, as long as, at the same time that; until (+subjunctive)",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "ex.mp3",
+                "latin": "ex , ē (abl.+)",
+                "english": "out of, from, from within; by reason of, on account of; of (following cardinal numerals)",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "frater.mp3",
+                "latin": "frāter, frātris (m)",
+                "english": "brother",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "gero.mp3",
+                "latin": "gerō, gerere, gessī, gestum",
+                "english": "to carry; carry on, manage, conduct, wage, accomplish, perform",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "gratiasagere.mp3",
+                "latin": "grātiās agere",
+                "english": "to thank someone; to give thanks to",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "laus.mp3",
+                "latin": "laus, laudis (f)",
+                "english": "praise, glory, fame",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "libertas.mp3",
+                "latin": "lībertās, lībertātis (f)",
+                "english": "liberty",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "numquam.mp3",
+                "latin": "numquam",
+                "english": "never",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "ratio.mp3",
+                "latin": "ratiō, ratiōnis (f)",
+                "english": "reckoning, account; reason, judgment, consideration; system; manner, method",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "scribo.mp3",
+                "latin": "scrībō, scrībere, scrīpsī, scrīptum",
+                "english": "to write, compose",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "scriptor.mp3",
+                "latin": "scrīptor, scrīptōris (m)",
+                "english": "writer, author",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "soror.mp3",
+                "latin": "soror, sorōris (f)",
+                "english": "sister",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "tamen.mp3",
+                "latin": "tamen",
+                "english": "nevertheless, still",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "traho.mp3",
+                "latin": "trahō, trahere, trāxī, tractum",
+                "english": "to draw, drag; derive, acquire",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "victoria.mp3",
+                "latin": "victōria, victōriae (f)",
+                "english": "victory",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "vinco.mp3",
+                "latin": "vincō, vincere, vīcī, victum",
+                "english": "to conquer, overcome",
                 "source": "http://wheelockslatin.com/"
             }
         ]
@@ -2197,82 +2247,122 @@
         "words": [
             {
                 "audioFilename": "acer.mp3",
+                "latin": "ācer, ācris, ācre",
+                "english": "sharp, keen, eager; severe, fierce",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "aetas.mp3",
+                "latin": "aetās, aetātis (f)",
+                "english": "period of life, life, age, an age, time",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "auditor.mp3",
+                "latin": "audītor, audītōris (m)",
+                "english": "hearer, listener, member of an audience",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "brevis.mp3",
+                "latin": "brevis, breve",
+                "english": "short, small, brief",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "celer.mp3",
+                "latin": "celer, celeris, celere",
+                "english": "swift, quick, rapid",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "clementia.mp3",
+                "latin": "clēmentia, clēmentiae (f)",
+                "english": "mildness, gentleness, mercy",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "difficilis.mp3",
+                "latin": "difficilis, difficile",
+                "english": "hard, difficult, troublesome",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "dulcis.mp3",
+                "latin": "dulcis, dulce",
+                "english": "sweet; pleasant, agreeable",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "facilis.mp3",
+                "latin": "facilis, facile",
+                "english": "easy; agreeable",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "fortis.mp3",
+                "latin": "fortis, forte",
+                "english": "strong, brave",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "ingens.mp3",
+                "latin": "ingēns, gen. ingentis",
+                "english": "huge",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "iucundus.mp3",
+                "latin": "iūcundus, iūcunda, iūcundum",
+                "english": "pleasant, delightful, agreeable, pleasing",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "longus.mp3",
+                "latin": "longus, longa, longum",
+                "english": "long",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "mens.mp3",
+                "latin": "mēns, mentis (f)",
+                "english": "mind, thought, intention",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "omnis.mp3",
+                "latin": "omnis, omne",
+                "english": "every, all",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "potens.mp3",
+                "latin": "potēns, potentis",
+                "english": "able, powerful, mighty, strong",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "quam.mp3",
+                "latin": "quam",
+                "english": "how",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "rego.mp3",
+                "latin": "regō, regere, rēxī, rēctum",
+                "english": "to rule, guide, direct",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "satura.mp3",
+                "latin": "satura, saturae (f)",
+                "english": "satire",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "senex.mp3",
+                "latin": "senex, senis",
+                "english": "old, aged (adj.) or old man (noun)",
                 "source": "http://wheelockslatin.com/"
             }
         ]
@@ -2387,66 +2477,98 @@
         "words": [
             {
                 "audioFilename": "clarus.mp3",
+                "latin": "clārus, clāra, clārum",
+                "english": "clear, bright; renowned, famous, illustrious",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "cur.mp3",
+                "latin": "cūr",
+                "english": "why",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "deinde.mp3",
+                "latin": "deinde",
+                "english": "thereupon, next, then",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "flumen.mp3",
+                "latin": "flūmen, flūminis (n)",
+                "english": "river",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "fluo.mp3",
+                "latin": "fluō, fluere, flūxī, flūxum",
+                "english": "to flow",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "genus.mp3",
+                "latin": "genus, generis (n)",
+                "english": "origin; kind, type, sort, class",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "hostes.mp3",
+                "latin": "hostēs, hostium (m)",
+                "english": "the enemy",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "hostis.mp3",
+                "latin": "hostis, hostis (m)",
+                "english": "an enemy (of the state)",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "lego.mp3",
+                "latin": "legō, legere, lēgī, lēctum",
+                "english": "to pick out, choose; read",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "ludus.mp3",
+                "latin": "lūdus, lūdī (m)",
+                "english": "game, sport; school",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "misceo.mp3",
+                "latin": "misceō, miscēre, miscuī, mixtum",
+                "english": "to mix, stir up, disturb",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "mortalis.mp3",
+                "latin": "mortālis, mortāle",
+                "english": "mortal",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "moveo.mp3",
+                "latin": "moveō, movēre, mōvī, mōtum",
+                "english": "to move; arouse, affect",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "probitas.mp3",
+                "latin": "probitās, probitātis (f)",
+                "english": "uprightness, honesty",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "scientia.mp3",
+                "latin": "scientia, scientiae (f)",
+                "english": "knowledge",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "videor.mp3",
+                "latin": "videor, vidērī, vīsus sum",
+                "english": "to be seen, seem, appear",
                 "source": "http://wheelockslatin.com/"
             }
         ]
@@ -4115,54 +4237,80 @@
         "words": [
             {
                 "audioFilename": "custodia.mp3",
+                "latin": "custōdia, custōdiae (f)",
+                "english": "protection, custody; guards (pl.)",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "dives.mp3",
+                "latin": "dīves, gen. dīvitis or dītis",
+                "english": "rich, wealthy",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "dummodo.mp3",
+                "latin": "dummodo (+subj.)",
+                "english": "provided that, so long as",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "exercitus.mp3",
+                "latin": "exercitus, exercitūs (m)",
+                "english": "army",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "malo.mp3",
+                "latin": "mālō, mālle, māluī",
+                "english": "to want (something) more, instead; prefer",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "nolo.mp3",
+                "latin": "nōlō, nōlle, nōluī",
+                "english": "to not . . . wish, be unwilling",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "par.mp3",
+                "latin": "pār, gen. paris (+dat.)",
+                "english": "equal, like",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "pateo.mp3",
+                "latin": "pateō, patēre, patuī",
+                "english": "to be open, lie open; be accessible; be evident",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "pauper.mp3",
+                "latin": "pauper, gen. pauperis",
+                "english": "of small means, poor",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "paupertas.mp3",
+                "latin": "paupertās, paupertātis (f)",
+                "english": "poverty, humble circumstances",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "praebeo.mp3",
+                "latin": "praebeō, praebēre, praebuī, praebitum",
+                "english": "to offer, provide",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "promitto.mp3",
+                "latin": "prōmittō, prōmittere, prōmīsī, prōmissum",
+                "english": "to send forth; promise",
                 "source": "http://wheelockslatin.com/"
             },
             {
                 "audioFilename": "volo.mp3",
+                "latin": "volō, velle, voluī",
+                "english": "to wish, want, be willing, will",
                 "source": "http://wheelockslatin.com/"
             }
         ]
