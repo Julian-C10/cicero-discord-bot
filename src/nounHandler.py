@@ -5,18 +5,30 @@ import discord
 
 cases = ["Nominative", "Genitive", "Dative", "Accusative", "Ablative", "Vocative"]
 firstDeclSinEndings = ["a", "ae", "ae", "am", "ā", "a"]
-
 firstDeclPluEndings = ["ae", "ārum", "is", "ās", "īs", "ae"]
+secondDeclSinEndingsEr = ["er", "ī", "ō", "um", "ō", "er"]
+secondDeclSinEndingsUs = ["us", "ī", "ō", "um", "ō", "e"]
+secondDeclSinEndingsEr = ["er", "ī", "ō", "um", "ō", "er"]
+secondDeclPluEndings = ["ī", "ōrum", "īs", "ō", "īs", "ī"]
 
 notSuppDecl = ["2nd Declension", "3rd Declension", "4th Declension", "5th Declension"]
 
-def get_proper_forms(base, decl, number):
+def get_proper_forms(noun, decl, number):
+    base = noun['base']
+    nomSin = noun['latin'].split(',')[0]
     forms = []
     endings = []
     if decl == "1st Declension" and number == "Singular":
         endings = firstDeclSinEndings
     elif decl == "1st Declension" and number == "Plural":
         endings = firstDeclPluEndings
+    elif decl == "2nd Declension" and nomSin.endswith("er") and number == "Singular":
+        endings = secondDeclSinEndingsEr
+    elif decl == "2nd Declension" and nomSin.endswith("us") and number == "Singular":
+        endings = secondDeclSinEndingsUs
+    elif decl == "2nd Declension" and number == "Plural":
+        endings = secondDeclPluEndings
+
     assert len(endings) > 0
 
     for ending in endings:
@@ -31,7 +43,7 @@ def get_col2(noun, number):
         col2.append("error")
         return col2
     col2.append(noun['gender'])
-    forms = get_proper_forms(noun['base'], noun['declension'], number)
+    forms = get_proper_forms(noun, noun['declension'], number)
     for form in forms:
         col2.append(form)
     return col2
@@ -143,3 +155,69 @@ async def send_declined_word(message, splitMsg, db):
                 nounDeclination.write(table)
         fileName = filePath.split("/")[-1]
         await message.channel.send(file=discord.File(fp=filePath, filename=fileName), content=transcript)
+
+async def send_all_nouns_list(message, splitMsg, db):
+    filePath = construct_noun_list_path("")
+    dirPath = construct_noun_list_dir_path()
+    if not(os.path.isfile(filePath)):
+        nouns = db['nouns']
+        longestLineLen = longest_line_length(nouns, 'latin')
+        msg = ''
+        for noun in nouns:
+            msg += list_string_format(longestLineLen + 5, noun['latin'], noun['english'])
+        msgList = msg.split("\n")
+        msgList = sorted(msgList, key=str.casefold)
+        msg = "\n".join(msgList)
+        if not os.path.isdir(dirPath):
+            os.mkdir(dirPath)
+        with open(filePath, 'w', encoding='utf8') as nounList:
+            nounList.write(msg)
+    await message.channel.send(file=discord.File(fp=filePath))
+
+def format_declension(decl):
+    formattedDecl = ""
+    if decl == "1st" or decl == "1":
+        formattedDecl = "1st Declension"
+    elif decl == "2nd" or decl == "2":
+        formattedDecl = "2nd Declension"
+    elif decl == "3rd" or decl == "3":
+        formattedDecl = "3rd Declension"
+    elif decl == "4th" or decl == "4":
+        formattedDecl = "4th Declension"
+    elif decl == "5th" or decl == "5":
+        formattedDecl = "5th Declension"
+
+    assert len(formattedDecl) > 0
+
+    return formattedDecl
+    
+async def send_noun_list(message, splitMsg, db):
+    if len(splitMsg) == 2:
+        send_all_nouns_list(message, splitMsg, db)
+        return
+    if len(splitMsg) != 3 and len(splitMsg != 4):
+        await message.channel.send(standard_error_message)
+        return
+
+    decl = splitMsg[2]
+    if decl not in ["1st", "2nd", "3rd", "4th", "5th", "1", "2", "3", "4", "5"]:
+        await message.channel.send(standard_error_message)
+        return
+    decl = format_declension(decl)
+    filePath = construct_noun_list_path(decl)
+    dirPath = construct_noun_list_dir_path()
+    if not(os.path.isfile(filePath)):
+        nouns = db['nouns']
+        longestLineLen = longest_line_length(nouns, 'latin')
+        msg = ''
+        for noun in nouns:
+            if noun['declension'] == decl:
+                msg += list_string_format(longestLineLen + 5, noun['latin'], noun['english'])
+        msgList = msg.split("\n")
+        msgList = sorted(msgList, key=str.casefold)
+        msg = "\n".join(msgList)
+        if not os.path.isdir(dirPath):
+            os.mkdir(dirPath)
+        with open(filePath, 'w', encoding='utf8') as nounList:
+            nounList.write(msg)
+    await message.channel.send(file=discord.File(fp=filePath))

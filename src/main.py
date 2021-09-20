@@ -71,6 +71,9 @@ async def on_message(message):
     elif len(splitMsg) >= 2 and len(splitMsg) < 20 and splitMsg[0] == 'decline':
         await send_declined_word(message, splitMsg, db)
 
+    elif len(splitMsg) >= 2 and splitMsg[0] == 'noun' and splitMsg[1] == "list":
+        await send_noun_list(message, splitMsg, db)
+
     elif len(splitMsg) >= 3 and splitMsg[0] == 'chapter' and splitMsg[1].isnumeric():
         # List all vocab words with an audio file in the chapter
         if len(splitMsg) == 4 and splitMsg[2] == 'vocab' and splitMsg[3] == 'list':

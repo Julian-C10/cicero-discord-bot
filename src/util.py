@@ -21,6 +21,8 @@ Salvē! I will respond to the following messages:
     chapter [1-40] exercises
     chapter [1-40] exercises key
     chapter [1-40] sentences
+    decline noun
+    noun list [1st-5th] declension
 All translations and audio credited to http://wheelockslatin.com/
 Try asking me something! (type "examples" if you want to see some examples)
 """
@@ -123,8 +125,49 @@ def construct_vocab_dir_path(num):
     return f'vocab-lists/{num}'
 
 def construct_decline_dir_path():
-    return f'nouns'
+    return f'noun-declensions'
+
+def construct_noun_list_path(declension):
+    file = ""
+    if (declension == "1st Declension"):
+        file = "first-decl-nouns.txt"
+    elif (declension == "2nd Declension"):
+        file = "second-decl-nouns.txt"
+    elif (declension == "3rd Declension"):
+        file = "third-decl-nouns.txt"
+    elif (declension == "4th Declension"):
+        file = "fourth-decl-nouns.txt"
+    elif (declension == "5th Declension"):
+        file = "fifth-decl-nouns.txt"
+    elif (declension == ""):
+        file = "all-nouns.txt"
+    return f"noun-lists/{file}"
+
+def construct_noun_list_dir_path():
+    return f'noun-lists'
 
 def construct_decline_path(latinText):
-    firstWord = latinText.split(' ')[0]
-    return f'nouns/{firstWord}-declination.txt'
+    firstWord = latinText.split(',')[0]
+    return f'noun-declensions/{firstWord}.txt'
+
+def longest_line_length(words, lang):
+    maxLen = len(words[0][lang])
+    for i in range(1, len(words)):
+        if len(words[i][lang]) > maxLen:
+            maxLen = len(words[i][lang])
+    return maxLen
+
+def list_string_format(maxLatinLen, latinText, englishText):
+    i = 0
+    msg = ''
+    for c in latinText:
+        msg += c
+        i += 1
+    while i < maxLatinLen:
+        msg += ' '
+        i += 1
+    i = 0
+    for c in englishText:
+        msg += c
+    msg += '\n'
+    return msg

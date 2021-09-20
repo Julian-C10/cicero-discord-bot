@@ -3,6 +3,9 @@ import hashlib
 import json
 from util import *
 
+def clear_noun_lists():
+    dirPath = construct_noun_list_dir_path()
+    os.rmdir(dirPath)
 
 def clear_noun_declinations():
     dirPath = construct_decline_dir_path()
@@ -20,6 +23,7 @@ def clear_vocab_lists():
 def clear_cache():
     clear_vocab_lists()
     clear_noun_declinations()
+    clear_noun_lists()
 
 def db_is_changed():
     # Read hash value

@@ -13,7 +13,7 @@ async def send_vocab_list(message, splitMsg, db):
         if 'latin' not in words[0].keys():
             await message.channel.send(standard_error_message)
             return
-        longestLineLen = longest_line_length(words, 'latin', isExtended=False)
+        longestLineLen = longest_line_length(words, 'latin')
         msg = ''
         for i in range(0, len(words)):
             if 'audioFilename' in words[i].keys():
@@ -41,7 +41,7 @@ async def send_vocab_test(message, splitMsg, db):
         if 'latin' not in words[0].keys():
             await message.channel.send(standard_error_message)
             return
-        longestLineLen = longest_line_length(words, desiredLang, isExtended=False)
+        longestLineLen = longest_line_length(words, desiredLang)
         msg = ''
         for i in range(0, len(words)):
             if 'audioFilename' in words[i].keys():
@@ -135,31 +135,12 @@ async def send_specific_word_all_chapters(message, splitMsg, db):
         else:
             await message.channel.send(transcript)
 
-def longest_line_length(words, lang, isExtended):
+def longest_line_length(words, lang):
     maxLen = len(words[0][lang])
     for i in range(1, len(words)):
-        if isExtended:
-            if len(words[i][lang]) > maxLen:
-                maxLen = len(words[i][lang])
-        else:
-            if 'audioFilename' in words[i].keys() and len(words[i][lang]) > maxLen:
-                maxLen = len(words[i][lang])
+        if len(words[i][lang]) > maxLen:
+            maxLen = len(words[i][lang])
     return maxLen
-
-def list_string_format(maxLatinLen, latinText, englishText):
-    i = 0
-    msg = ''
-    for c in latinText:
-        msg += c
-        i += 1
-    while i < maxLatinLen:
-        msg += ' '
-        i += 1
-    i = 0
-    for c in englishText:
-        msg += c
-    msg += '\n'
-    return msg
 
 def test_string_format(maxLen, text):
     i = 0
