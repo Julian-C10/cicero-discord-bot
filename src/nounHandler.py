@@ -141,4 +141,5 @@ async def send_declined_word(message, splitMsg, db):
                 return
             with open(filePath, 'w', encoding='utf8') as nounDeclination:
                 nounDeclination.write(table)
-        await message.channel.send(file=discord.File(fp=filePath, filename=filePath), content=transcript)
+        fileName = filePath.split("/")[-1]
+        await message.channel.send(file=discord.File(fp=filePath, filename=fileName), content=transcript)
