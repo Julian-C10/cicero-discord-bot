@@ -3,6 +3,11 @@ import hashlib
 import json
 from util import *
 
+
+def clear_noun_declinations():
+    dirPath = construct_decline_dir_path()
+    os.rmdir(dirPath)
+
 def clear_vocab_lists():
     for i in range(1, 41):
         if os.path.isfile(construct_vocab_list_path(i)):
@@ -11,6 +16,10 @@ def clear_vocab_lists():
             os.remove(construct_vocab_test_path(i, 'latin'))
         if os.path.isfile(construct_vocab_test_path(i, 'english')):
             os.remove(construct_vocab_test_path(i, 'english'))
+
+def clear_cache():
+    clear_vocab_lists()
+    clear_noun_declinations()
 
 def db_is_changed():
     # Read hash value

@@ -7,6 +7,7 @@ import sys
 from decouple import config
 from vocabHandler import *
 from worksheetHandler import *
+from nounHandler import *
 from cache import *
 from util import *
 
@@ -31,7 +32,7 @@ async def on_message(message):
         start_time = time.process_time()
 
     if db_is_changed():
-        clear_vocab_lists()
+        clear_cache()
         with open(databasePath, 'r', encoding='utf-8') as jsonFile:
             db = json.load(jsonFile)
     
@@ -66,6 +67,9 @@ async def on_message(message):
     # Display a specific vocab word in the chapter
     elif len(splitMsg) >= 3 and len(splitMsg) < 20 and splitMsg[0] == 'vocab' and splitMsg[1] == 'word':
         await send_specific_word_all_chapters(message, splitMsg, db)
+
+    elif len(splitMsg) >= 2 and len(splitMsg) < 20 and splitMsg[0] == 'decline':
+        await send_declined_word(message, splitMsg, db)
 
     elif len(splitMsg) >= 3 and splitMsg[0] == 'chapter' and splitMsg[1].isnumeric():
         # List all vocab words with an audio file in the chapter

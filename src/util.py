@@ -96,6 +96,12 @@ def missing_specific_vocab_word_error(reconstructedMsg, num):
 def missing_specific_vocab_word_all_chapters_error(reconstructedMsg):
     return f'Sorry, I couldn\'t find a vocab entry containing "{reconstructedMsg}" in any chapter.\n' + suggest_error_message
 
+def missing_noun_error(reconstructedMsg):
+    return f'Sorry, I couldn\'t find a noun entry containing "{reconstructedMsg}".\n' + suggest_error_message
+
+def unable_to_decline_noun_error(reconstructedMsg):
+    return f'Sorry, I don\'t know how to decline "{reconstructedMsg}".\n' + suggest_error_message
+
 def vocab_test_missing_command(num):
     return ("Sorry, I don't understand. Did you mean one of the following?\n"
            f"   chapter {num} vocab test english\n"
@@ -115,3 +121,10 @@ def construct_vocab_path():
 
 def construct_vocab_dir_path(num):
     return f'vocab-lists/{num}'
+
+def construct_decline_dir_path():
+    return f'nouns'
+
+def construct_decline_path(latinText):
+    firstWord = latinText.split(' ')[0]
+    return f'nouns/{firstWord}-declination.txt'

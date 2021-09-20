@@ -1,0 +1,34 @@
+Singular
+-----------|---------|
+ puell-    | Female  |
+-----------|---------|
+ Nominative| puella  |
+-----------|---------|
+ Genitive  | puellae |
+-----------|---------|
+ Dative    | puellae |
+-----------|---------|
+ Accusative| puellam |
+-----------|---------|
+ Ablative  | puellā  |
+-----------|---------|
+ Vocative  | puella  |
+-----------|---------|
+
+
+Plural
+-----------|-----------|
+ puell-    | Female    |
+-----------|-----------|
+ Nominative| puellae   |
+-----------|-----------|
+ Genitive  | puellārum |
+-----------|-----------|
+ Dative    | puellis   |
+-----------|-----------|
+ Accusative| puellās   |
+-----------|-----------|
+ Ablative  | puellīs   |
+-----------|-----------|
+ Vocative  | puellae   |
+-----------|-----------|

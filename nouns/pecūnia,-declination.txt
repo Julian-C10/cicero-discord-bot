@@ -1,0 +1,34 @@
+Singular
+-----------|----------|
+ pecūni-   | Female   |
+-----------|----------|
+ Nominative| pecūnia  |
+-----------|----------|
+ Genitive  | pecūniae |
+-----------|----------|
+ Dative    | pecūniae |
+-----------|----------|
+ Accusative| pecūniam |
+-----------|----------|
+ Ablative  | pecūniā  |
+-----------|----------|
+ Vocative  | pecūnia  |
+-----------|----------|
+
+
+Plural
+-----------|------------|
+ pecūni-   | Female     |
+-----------|------------|
+ Nominative| pecūniae   |
+-----------|------------|
+ Genitive  | pecūniārum |
+-----------|------------|
+ Dative    | pecūniis   |
+-----------|------------|
+ Accusative| pecūniās   |
+-----------|------------|
+ Ablative  | pecūniīs   |
+-----------|------------|
+ Vocative  | pecūniae   |
+-----------|------------|
