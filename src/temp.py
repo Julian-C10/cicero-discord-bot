@@ -4,5 +4,13 @@ import json
 with open(databasePath, 'r', encoding='utf-8') as jsonFile:
     db = json.load(jsonFile)
 
-for noun in db['nouns']:
-    print(noun)
+exceptions = db['exceptions']['nouns'] 
+nouns = db['nouns']
+regularNouns = []
+for noun in nouns:
+    if noun in exceptions:
+        print(noun)
+    else:
+        regularNouns.append(noun)
+
+db['nouns'] = regularNouns

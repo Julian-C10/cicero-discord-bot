@@ -11,18 +11,21 @@ secondDeclSinEndingsUs = ["us", "ī", "ō", "um", "ō", "e"]
 secondDeclSinEndingsEr = ["er", "ī", "ō", "um", "ō", "er"]
 secondDeclPluEndings = ["ī", "ōrum", "īs", "ō", "īs", "ī"]
 
-notSuppDecl = ["2nd Declension", "3rd Declension", "4th Declension", "5th Declension"]
+notSuppDecl = ["3rd Declension", "4th Declension", "5th Declension"]
 
 def get_proper_forms(noun, decl, number):
     base = noun['base']
     nomSin = noun['latin'].split(',')[0]
     forms = []
     endings = []
+    isErNoun = False
+
     if decl == "1st Declension" and number == "Singular":
         endings = firstDeclSinEndings
     elif decl == "1st Declension" and number == "Plural":
         endings = firstDeclPluEndings
     elif decl == "2nd Declension" and nomSin.endswith("er") and number == "Singular":
+        isErNoun = True
         endings = secondDeclSinEndingsEr
     elif decl == "2nd Declension" and nomSin.endswith("us") and number == "Singular":
         endings = secondDeclSinEndingsUs
@@ -31,8 +34,11 @@ def get_proper_forms(noun, decl, number):
 
     assert len(endings) > 0
 
-    for ending in endings:
-        forms.append(f'{base}{ending}')
+    for i in range(0, len(endings)):
+        if isErNoun and (i == 0  or i == len(endings) - 1):
+            forms.append(f'{base[:-1]}{endings[i]}')
+        else:
+            forms.append(f'{base}{endings[i]}')
 
     return forms
     
@@ -161,7 +167,7 @@ async def send_all_nouns_list(message, splitMsg, db):
     dirPath = construct_noun_list_dir_path()
     if not(os.path.isfile(filePath)):
         nouns = db['nouns']
-        longestLineLen = longest_line_length(nouns, 'latin')
+        longestLineLen = longest_line_length_util(nouns, 'latin')
         msg = ''
         for noun in nouns:
             msg += list_string_format(longestLineLen + 5, noun['latin'], noun['english'])
@@ -193,9 +199,9 @@ def format_declension(decl):
     
 async def send_noun_list(message, splitMsg, db):
     if len(splitMsg) == 2:
-        send_all_nouns_list(message, splitMsg, db)
+        await send_all_nouns_list(message, splitMsg, db)
         return
-    if len(splitMsg) != 3 and len(splitMsg != 4):
+    if len(splitMsg) != 3 and len(splitMsg) != 4:
         await message.channel.send(standard_error_message)
         return
 
@@ -208,7 +214,7 @@ async def send_noun_list(message, splitMsg, db):
     dirPath = construct_noun_list_dir_path()
     if not(os.path.isfile(filePath)):
         nouns = db['nouns']
-        longestLineLen = longest_line_length(nouns, 'latin')
+        longestLineLen = longest_line_length_util(nouns, 'latin')
         msg = ''
         for noun in nouns:
             if noun['declension'] == decl:

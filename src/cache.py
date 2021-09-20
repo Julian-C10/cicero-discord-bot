@@ -2,14 +2,17 @@ import os
 import hashlib
 import json
 from util import *
+import shutil
 
 def clear_noun_lists():
     dirPath = construct_noun_list_dir_path()
-    os.rmdir(dirPath)
+    if os.path.isdir(dirPath):
+        shutil.rmtree(dirPath)
 
 def clear_noun_declinations():
     dirPath = construct_decline_dir_path()
-    os.rmdir(dirPath)
+    if os.path.isdir(dirPath):
+        shutil.rmtree(dirPath)
 
 def clear_vocab_lists():
     for i in range(1, 41):

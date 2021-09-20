@@ -13,7 +13,7 @@ async def send_vocab_list(message, splitMsg, db):
         if 'latin' not in words[0].keys():
             await message.channel.send(standard_error_message)
             return
-        longestLineLen = longest_line_length(words, 'latin')
+        longestLineLen = longest_line_length_util(words, 'latin')
         msg = ''
         for i in range(0, len(words)):
             if 'audioFilename' in words[i].keys():
@@ -41,7 +41,7 @@ async def send_vocab_test(message, splitMsg, db):
         if 'latin' not in words[0].keys():
             await message.channel.send(standard_error_message)
             return
-        longestLineLen = longest_line_length(words, desiredLang)
+        longestLineLen = longest_line_length_util(words, desiredLang)
         msg = ''
         for i in range(0, len(words)):
             if 'audioFilename' in words[i].keys():
@@ -134,13 +134,6 @@ async def send_specific_word_all_chapters(message, splitMsg, db):
             await message.channel.send(file=discord.File(fp=filepath, filename="audio.mp3"), content=transcript)
         else:
             await message.channel.send(transcript)
-
-def longest_line_length(words, lang):
-    maxLen = len(words[0][lang])
-    for i in range(1, len(words)):
-        if len(words[i][lang]) > maxLen:
-            maxLen = len(words[i][lang])
-    return maxLen
 
 def test_string_format(maxLen, text):
     i = 0

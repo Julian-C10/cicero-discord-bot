@@ -150,7 +150,7 @@ def construct_decline_path(latinText):
     firstWord = latinText.split(',')[0]
     return f'noun-declensions/{firstWord}.txt'
 
-def longest_line_length(words, lang):
+def longest_line_length_util(words, lang):
     maxLen = len(words[0][lang])
     for i in range(1, len(words)):
         if len(words[i][lang]) > maxLen:
