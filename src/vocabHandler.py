@@ -46,6 +46,9 @@ async def send_vocab_test(message, splitMsg, db):
         for i in range(0, len(words)):
             if 'audioFilename' in words[i].keys():
                 msg += test_string_format(longestLineLen + 1, words[i][desiredLang])
+        msgList = msg.split("\n")
+        msgList = sorted(msgList, key=str.casefold)
+        msg = "\n".join(msgList)
         if not os.path.isdir(vocabPath):
             os.mkdir(vocabPath)
         if not os.path.isdir(dirPath):
